@@ -1,0 +1,31 @@
+/nbproject/
+/target/
+/Playlists/
+/test/
+*.json
+*.txt
+nb*.xml
+
+# IDEs
+/.idea/
+/.vscode/
+/.cursor/
+*.iml
+*.iws
+
+# Maven
+dependency-reduced-pom.xml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Other
+*.lock
+
+# Embedded game guides are source resources, not local bot configuration.
+!src/main/resources/degen-commands.txt
+!src/main/resources/degen-directory.txt

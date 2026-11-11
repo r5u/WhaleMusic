@@ -1,0 +1,130 @@
+Wallet & Daily Play
+Build your points, check your progress, and find something to do while games cool down.
+## 💰 Your Wallet
+💰 `` `degen balance `` - Checks your current point balance
+📈 `` `degen profile `` - View your detailed profile, including balance, betting, and gambling stats
+💰 `` `degen transactions `` - View your transaction history
+📈 `` `degen leaderboard `` - Shows the top users by balance
+## 🧰 Earn Points
+💰 `` `degen daily `` - Claim your daily point bonus
+💰 `` `degen work `` - Work a job for a chance to earn points and rare bonuses
+💰 `` `degen beg `` - Beg for coins and see what happens
+🐾 `` `degen meowbark `` - Perform a meow or bark to earn points
+❓ `` `degen question `` - Answer a question about a cat for a chance to win or lose points
+## ✨ Progress & Perks
+✨ `` `degen buffs `` - View your active buffs and their remaining time
+📅 `` `degen cooldowns `` - View all your current cooldowns
+📈 `` `degen auracheck `` - Check aura for a user
+📈 `` `degen auraleaderboard `` - View the aura leaderboard
+🎟️ `` `degen golden-tickets `` - Check how many golden tickets you have
+🎟️ `` `degen redeem-golden-ticket `` - Redeem a golden ticket for 10% of the jackpot pool
+===
+Casino & Player Bets
+Pick a quick game or join a player-created event. Wagers use Degen points.
+## 🎰 Casino Floor
+🎰 `` `degen slots `` - Play the slot machine
+🃏 `` `degen blackjack `` - Play blackjack
+🎲 `` `degen coinflip `` - Flip a coin and bet on the outcome
+🎲 `` `degen dice `` - Roll dice and bet on the outcome
+🎲 `` `degen roulette `` - Play roulette
+🎰 `` `degen jackpot `` - View or contribute to the jackpot
+## 🗳️ Start & Join Bets
+🧾 `` `degen createbet `` - Creates a new betting event
+📋 `` `degen listbets `` - Lists all currently open betting events
+📋 `` `degen viewbet `` - Views a concise summary of a specific betting event
+📋 `` `degen betinfo `` - Shows detailed information and statistics about a specific bet
+🧾 `` `degen placebet `` - Places a bet on an active event
+## 🧾 Manage Your Bets
+🧾 `` `degen editbet `` - Edits a bet's description or options before any bets are placed
+🧾 `` `degen extendbet `` - Extends the duration of an open bet
+🧾 `` `degen closebet `` - Closes betting for a specific event
+🧾 `` `degen cancelbet `` - Cancels a bet before any bets are placed
+🧾 `` `degen resolvebet `` - Resolves a betting event and distributes winnings
+🧾 `` `degen refund `` - Refund all bets for a specific bet
+📋 `` `degen unresolvedbets `` - Shows all bets that are unresolved
+📈 `` `degen stats `` - Shows your full betting and gambling statistics, including win streaks, jackpots, gifts, and more
+===
+CS2 & Collecting
+Browse cases, grow a collection, and exchange items with other players.
+## 📦 Cases & Skins
+📦 `` `degen cs2cases `` - View available CS2 cases and their contents
+📦 `` `degen cs2open `` - Open a CS2 case and get a random skin
+🔫 `` `degen cs2inventory `` - View your CS2 skin collection and inventory
+🔫 `` `degen cs2view `` - View detailed information about CS2 skins with search and pagination
+## 🔫 Skin Trading & Records
+🔫 `` `degen cs2sell `` - Sell a CS2 skin from your inventory
+🔄 `` `degen cs2trade `` - Trade a CS2 skin with another user
+🔫 `` `degen cs2stats `` - View your CS2 case opening statistics and performance
+🔫 `` `degen cs2leaderboard `` - View the CS2 case opening leaderboard
+## 🎣 Gather & Collect
+🎣 `` `degen fish `` - Go fishing for a chance to catch something valuable
+🏹 `` `degen hunt `` - Go hunting for a chance to catch a rare animal
+🃏 `` `degen collection `` - View your fishing and hunting collection
+🃏 `` `degen collection-list `` - View all possible fish and animal names in the collection
+🃏 `` `degen collection-leaderboard `` - View the top collectors by collection value
+## 🎁 Share & Sell
+💰 `` `degen sell `` - Sell items from your collection for points
+🔄 `` `degen trade `` - Trade items with another user
+💰 `` `degen gift `` - Gift points to another user
+🎰 `` `degen mysterybox `` - Open a mystery box for random rewards
+🎁 `` `degen giveaway `` - Start a giveaway for points
+===
+Wild Pokémon
+Search a bush, react 🔴 to an encounter, then grow and show your Pokémon collection.
+## 🌿 Find & Catch
+🌿 `` `degen bush `` - Search for a wild Pokémon once per hour
+🔴 `` `degen pokecatch `` - Try to catch the wild Pokémon in this channel
+🔴 `` `degen pokedex `` - View your collected Pokémon
+🔴 `` `degen pokemonshow `` - Show off one of your Pokémon publicly
+## 🧬 Grow Your Team
+🔴 `` `degen pokeevolve `` - Evolve a Pokémon using the Evolver's Ring and duplicates
+🔴 `` `degen pokeevolveform `` - Evolve a Pokémon to any special form using Form Stones
+🔴 `` `degen pokesellduplicates `` - Sell your duplicate Pokémon for stardust
+🛍️ `` `degen pokeshop `` - View and buy special progression items
+🛍️ `` `degen pokeshopdaily `` - View today's rotating Previous Generation Pokémon shop featuring Pokémon from different rarities
+## 🔄 Trade & Track
+🔄 `` `degen poketrade `` - Trade Pokémon with another user
+🔴 `` `degen pokestats `` - View detailed EV stats for a specific Pokemon
+🗺️ `` `degen pokequests `` - View your daily and weekly Pokémon quest progress and claim rewards
+🛠️ `` `degen setpokedexpokemon `` - Choose which Pokémon to display in your Pokédex
+===
+Battles, Cards & Rivals
+Challenge another trainer, open card packs, or take a risk against another player.
+## ⚔️ Trainer Battles
+⚔️ `` `degen pokebattle `` - Challenge another user to a Pokémon battle
+⚔️ `` `degen pokebattlestats `` - View Pokémon battle statistics for a user
+⚔️ `` `degen battledexpreset `` - Set your BattleDex preset by selecting Pokémon like in pokebattle
+⚔️ `` `degen cancelbattle `` - Cancel your active battle if it's stuck
+## 🃏 Pokémon Cards
+📦 `` `degen pokepacks `` - Browse available Pokémon TCG card packs
+📦 `` `degen pokeopen `` - Open your purchased Pokémon TCG card packs
+🔴 `` `degen pokecollection `` - View your Pokémon TCG card collection
+## 🎉 Pokémon Giveaways
+🎁 `` `degen giveawaypokemon `` - Start a giveaway for a Pokémon from your collection
+🎁 `` `degen giveawaypokemonleaderboard `` - View the Pokémon giveaway leaderboard
+## 🚔 Risk & Rivalry
+⚔️ `` `degen duel `` - Challenge another user to a duel for points
+🛡️ `` `degen crime `` - Attempt a crime for a chance to win or lose points, or get jailed
+🛡️ `` `degen steal `` - Enhanced steal system with multiple steal types and separate cooldowns
+🛡️ `` `degen jailed `` - View all currently jailed users in this server
+🛡️ `` `degen bail `` - Bail a jailed user out of jail
+===
+Server Tools & More
+Restricted tools require the appropriate bot or server permissions. Open help for deeper game guides.
+## 🛡️ Player Controls
+🛡️ `` `degen timeout `` - Timeout a user for a specified duration
+🛡️ `` `degen timeoutlist `` - List all currently timed out users in the server
+🛡️ `` `degen untimeout `` - Reduce a bot-applied timeout for a user
+🛠️ `` `degen changerole `` - Change a user's role
+🛠️ `` `degen resetcooldowns `` - Reset all cooldowns
+## 🗓️ Server Settings
+🛠️ `` `degen setlogchannel `` - Set the channel where moderation logs will be sent
+📅 `` `degen weekend `` - Manage automatic weekend events
+📅 `` `degen doubleweekend `` - Manage double weekend events
+## 🧑‍🔧 Pokémon Administration
+🔴 `` `degen pokespawn `` - Admin: Spawn a wild current generation Pokémon in this channel
+🛠️ `` `degen setpokechannel `` - Manage saved Pokémon channel settings; automatic spawns are disabled
+🛠️ `` `degen spawncustompokemon `` - Give a custom Pokémon to a user
+🔴 `` `degen pokesteal `` - Superadmin: Steal a random common Pokémon from a user
+## 📖 More Help
+❓ `` `degen help `` - Shows a help menu with all available commands

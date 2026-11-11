@@ -1,0 +1,11 @@
+process.env.GUILD_ID_1='0'; process.env.BOT_OWNER_ID='0'; process.env.MUSIC_ONLY_CHANNEL_ID='0';
+const assert = require('node:assert/strict');
+const { visibleHelp }=require('./utils/helpVisibility');
+const embed={fields:[{name:'Tools',value:'`degen changerole @user admin\nRequired Permission: Superadmin\n\n`degen balance - See points\n`degen setlogchannel #channel\nAdmin only'},{name:'Spawning',value:'`bush - Search\n`degen pokespawn - Admin spawn\n`degen setpokechannel - Admin config'}]};
+const user=visibleHelp(embed,{admin:false,superadmin:false});
+assert.match(JSON.stringify(user),/balance/);assert.match(JSON.stringify(user),/bush/);
+assert.doesNotMatch(JSON.stringify(user),/changerole|Superadmin|pokespawn|setlogchannel|setpokechannel/);
+const admin=visibleHelp(embed,{admin:true,superadmin:false});
+assert.doesNotMatch(JSON.stringify(admin),/changerole/);assert.match(JSON.stringify(admin),/pokespawn/);
+assert.deepEqual(visibleHelp(embed,{admin:true,superadmin:true}),embed);
+console.log('PASS: Degen help filters restricted commands and their explanatory lines for regular users and admins.');

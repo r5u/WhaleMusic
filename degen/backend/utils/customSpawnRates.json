@@ -1,0 +1,4932 @@
+{
+  "pidgey": {
+    "spawn": 28,
+    "catchRate": 0.39,
+    "rarity": "common",
+    "xpYield": 20,
+    "dustYield": 50,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 1
+  },
+  "rattata": {
+    "spawn": 28,
+    "catchRate": 0.39,
+    "rarity": "common",
+    "xpYield": 20,
+    "dustYield": 50,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 1
+  },
+  "zubat": {
+    "spawn": 28,
+    "catchRate": 0.39,
+    "rarity": "common",
+    "xpYield": 20,
+    "dustYield": 50,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 1
+  },
+  "magikarp": {
+    "spawn": 28,
+    "catchRate": 0.39,
+    "rarity": "common",
+    "xpYield": 20,
+    "dustYield": 50,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 1
+  },
+  "caterpie": {
+    "spawn": 28,
+    "catchRate": 0.39,
+    "rarity": "common",
+    "xpYield": 20,
+    "dustYield": 50,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 1
+  },
+  "weedle": {
+    "spawn": 28,
+    "catchRate": 0.39,
+    "rarity": "common",
+    "xpYield": 20,
+    "dustYield": 50,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 1
+  },
+  "bellsprout": {
+    "spawn": 28,
+    "catchRate": 0.39,
+    "rarity": "common",
+    "xpYield": 20,
+    "dustYield": 50,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 1
+  },
+  "oddish": {
+    "spawn": 28,
+    "catchRate": 0.39,
+    "rarity": "common",
+    "xpYield": 20,
+    "dustYield": 50,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 1
+  },
+  "geodude": {
+    "spawn": 28,
+    "catchRate": 0.39,
+    "rarity": "common",
+    "xpYield": 20,
+    "dustYield": 50,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 1
+  },
+  "spearow": {
+    "spawn": 28,
+    "catchRate": 0.39,
+    "rarity": "common",
+    "xpYield": 20,
+    "dustYield": 50,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 1
+  },
+  "paras": {
+    "spawn": 28,
+    "catchRate": 0.29,
+    "rarity": "common",
+    "xpYield": 20,
+    "dustYield": 50,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 1
+  },
+  "krabby": {
+    "spawn": 28,
+    "catchRate": 0.35,
+    "rarity": "common",
+    "xpYield": 20,
+    "dustYield": 50,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 1
+  },
+  "pikachu": {
+    "spawn": 7,
+    "catchRate": 0.29,
+    "rarity": "uncommon",
+    "xpYield": 35,
+    "dustYield": 125,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 1
+  },
+  "vulpix": {
+    "spawn": 7,
+    "catchRate": 0.29,
+    "rarity": "uncommon",
+    "xpYield": 35,
+    "dustYield": 125,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 1
+  },
+  "meowth": {
+    "spawn": 7,
+    "catchRate": 0.39,
+    "rarity": "uncommon",
+    "xpYield": 35,
+    "dustYield": 125,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 1
+  },
+  "machop": {
+    "spawn": 7,
+    "catchRate": 0.28,
+    "rarity": "uncommon",
+    "xpYield": 35,
+    "dustYield": 125,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 1
+  },
+  "psyduck": {
+    "spawn": 7,
+    "catchRate": 0.29,
+    "rarity": "uncommon",
+    "xpYield": 35,
+    "dustYield": 125,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 1
+  },
+  "growlithe": {
+    "spawn": 7,
+    "catchRate": 0.29,
+    "rarity": "uncommon",
+    "xpYield": 35,
+    "dustYield": 125,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 1
+  },
+  "tentacool": {
+    "spawn": 7,
+    "catchRate": 0.29,
+    "rarity": "uncommon",
+    "xpYield": 35,
+    "dustYield": 125,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 1
+  },
+  "horsea": {
+    "spawn": 7,
+    "catchRate": 0.35,
+    "rarity": "uncommon",
+    "xpYield": 35,
+    "dustYield": 125,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 1
+  },
+  "goldeen": {
+    "spawn": 7,
+    "catchRate": 0.35,
+    "rarity": "uncommon",
+    "xpYield": 35,
+    "dustYield": 125,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 1
+  },
+  "sandshrew": {
+    "spawn": 7,
+    "catchRate": 0.39,
+    "rarity": "uncommon",
+    "xpYield": 35,
+    "dustYield": 125,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 1
+  },
+  "slowpoke": {
+    "spawn": 7,
+    "catchRate": 0.29,
+    "rarity": "uncommon",
+    "xpYield": 35,
+    "dustYield": 125,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 1
+  },
+  "gastly": {
+    "spawn": 7,
+    "catchRate": 0.29,
+    "rarity": "uncommon",
+    "xpYield": 35,
+    "dustYield": 125,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 1
+  },
+  "bulbasaur": {
+    "spawn": 2,
+    "catchRate": 0.07,
+    "rarity": "rare",
+    "xpYield": 60,
+    "dustYield": 250,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 1
+  },
+  "charmander": {
+    "spawn": 2,
+    "catchRate": 0.07,
+    "rarity": "rare",
+    "xpYield": 60,
+    "dustYield": 250,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 1
+  },
+  "squirtle": {
+    "spawn": 2,
+    "catchRate": 0.07,
+    "rarity": "rare",
+    "xpYield": 60,
+    "dustYield": 250,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 1
+  },
+  "ivysaur": {
+    "spawn": 2,
+    "catchRate": 0.07,
+    "rarity": "rare",
+    "xpYield": 60,
+    "dustYield": 250,
+    "evolutionStage": 2,
+    "canEvolve": true,
+    "gen": 1
+  },
+  "charmeleon": {
+    "spawn": 2,
+    "catchRate": 0.07,
+    "rarity": "rare",
+    "xpYield": 60,
+    "dustYield": 250,
+    "evolutionStage": 2,
+    "canEvolve": true,
+    "gen": 1
+  },
+  "wartortle": {
+    "spawn": 2,
+    "catchRate": 0.07,
+    "rarity": "rare",
+    "xpYield": 60,
+    "dustYield": 250,
+    "evolutionStage": 2,
+    "canEvolve": true,
+    "gen": 1
+  },
+  "pidgeotto": {
+    "spawn": 2,
+    "catchRate": 0.18,
+    "rarity": "rare",
+    "xpYield": 60,
+    "dustYield": 250,
+    "evolutionStage": 2,
+    "canEvolve": true,
+    "gen": 1
+  },
+  "pidgeot": {
+    "spawn": 2,
+    "catchRate": 0.07,
+    "rarity": "rare",
+    "xpYield": 60,
+    "dustYield": 250,
+    "evolutionStage": 3,
+    "canEvolve": false,
+    "gen": 1
+  },
+  "butterfree": {
+    "spawn": 2,
+    "catchRate": 0.07,
+    "rarity": "rare",
+    "xpYield": 60,
+    "dustYield": 250,
+    "evolutionStage": 3,
+    "canEvolve": false,
+    "gen": 1
+  },
+  "beedrill": {
+    "spawn": 2,
+    "catchRate": 0.07,
+    "rarity": "rare",
+    "xpYield": 60,
+    "dustYield": 250,
+    "evolutionStage": 3,
+    "canEvolve": false,
+    "gen": 1
+  },
+  "gloom": {
+    "spawn": 2,
+    "catchRate": 0.18,
+    "rarity": "rare",
+    "xpYield": 60,
+    "dustYield": 250,
+    "evolutionStage": 2,
+    "canEvolve": true,
+    "gen": 1
+  },
+  "nidorina": {
+    "spawn": 2,
+    "catchRate": 0.18,
+    "rarity": "rare",
+    "xpYield": 60,
+    "dustYield": 250,
+    "evolutionStage": 2,
+    "canEvolve": true,
+    "gen": 1
+  },
+  "nidorino": {
+    "spawn": 2,
+    "catchRate": 0.18,
+    "rarity": "rare",
+    "xpYield": 60,
+    "dustYield": 250,
+    "evolutionStage": 2,
+    "canEvolve": true,
+    "gen": 1
+  },
+  "kadabra": {
+    "spawn": 2,
+    "catchRate": 0.15,
+    "rarity": "rare",
+    "xpYield": 60,
+    "dustYield": 250,
+    "evolutionStage": 2,
+    "canEvolve": true,
+    "gen": 1
+  },
+  "machoke": {
+    "spawn": 2,
+    "catchRate": 0.14,
+    "rarity": "rare",
+    "xpYield": 60,
+    "dustYield": 250,
+    "evolutionStage": 2,
+    "canEvolve": true,
+    "gen": 1
+  },
+  "haunter": {
+    "spawn": 2,
+    "catchRate": 0.14,
+    "rarity": "rare",
+    "xpYield": 60,
+    "dustYield": 250,
+    "evolutionStage": 2,
+    "canEvolve": true,
+    "gen": 1
+  },
+  "scyther": {
+    "spawn": 2,
+    "catchRate": 0.07,
+    "rarity": "rare",
+    "xpYield": 60,
+    "dustYield": 250,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 1
+  },
+  "jynx": {
+    "spawn": 2,
+    "catchRate": 0.07,
+    "rarity": "rare",
+    "xpYield": 60,
+    "dustYield": 250,
+    "evolutionStage": 1,
+    "canEvolve": false,
+    "gen": 1
+  },
+  "electabuzz": {
+    "spawn": 2,
+    "catchRate": 0.07,
+    "rarity": "rare",
+    "xpYield": 60,
+    "dustYield": 250,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 1
+  },
+  "magmar": {
+    "spawn": 2,
+    "catchRate": 0.07,
+    "rarity": "rare",
+    "xpYield": 60,
+    "dustYield": 250,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 1
+  },
+  "lickitung": {
+    "spawn": 2,
+    "catchRate": 0.07,
+    "rarity": "rare",
+    "xpYield": 60,
+    "dustYield": 250,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 1
+  },
+  "porygon": {
+    "spawn": 2,
+    "catchRate": 0.07,
+    "rarity": "rare",
+    "xpYield": 60,
+    "dustYield": 250,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 1
+  },
+  "omanyte": {
+    "spawn": 2,
+    "catchRate": 0.07,
+    "rarity": "rare",
+    "xpYield": 60,
+    "dustYield": 250,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 1
+  },
+  "kabuto": {
+    "spawn": 2,
+    "catchRate": 0.07,
+    "rarity": "rare",
+    "xpYield": 60,
+    "dustYield": 250,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 1
+  },
+  "eevee": {
+    "spawn": 2,
+    "catchRate": 0.07,
+    "rarity": "rare",
+    "xpYield": 60,
+    "dustYield": 250,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 1
+  },
+  "dratini": {
+    "spawn": 2,
+    "catchRate": 0.07,
+    "rarity": "rare",
+    "xpYield": 60,
+    "dustYield": 250,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 1
+  },
+  "dragonair": {
+    "spawn": 2,
+    "catchRate": 0.07,
+    "rarity": "rare",
+    "xpYield": 60,
+    "dustYield": 250,
+    "evolutionStage": 2,
+    "canEvolve": true,
+    "gen": 1
+  },
+  "onix": {
+    "spawn": 2,
+    "catchRate": 0.07,
+    "rarity": "rare",
+    "xpYield": 60,
+    "dustYield": 250,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 1
+  },
+  "mewtwo": {
+    "spawn": 1,
+    "catchRate": 0.01,
+    "rarity": "legendary",
+    "xpYield": 150,
+    "dustYield": 750,
+    "evolutionStage": 1,
+    "canEvolve": false,
+    "gen": 1
+  },
+  "mew": {
+    "spawn": 1,
+    "catchRate": 0.03,
+    "rarity": "legendary",
+    "xpYield": 150,
+    "dustYield": 750,
+    "evolutionStage": 1,
+    "canEvolve": false,
+    "gen": 1
+  },
+  "articuno": {
+    "spawn": 1,
+    "catchRate": 0.01,
+    "rarity": "legendary",
+    "xpYield": 150,
+    "dustYield": 750,
+    "evolutionStage": 1,
+    "canEvolve": false,
+    "gen": 1
+  },
+  "zapdos": {
+    "spawn": 1,
+    "catchRate": 0.01,
+    "rarity": "legendary",
+    "xpYield": 150,
+    "dustYield": 750,
+    "evolutionStage": 1,
+    "canEvolve": false,
+    "gen": 1
+  },
+  "moltres": {
+    "spawn": 1,
+    "catchRate": 0.01,
+    "rarity": "legendary",
+    "xpYield": 150,
+    "dustYield": 750,
+    "evolutionStage": 1,
+    "canEvolve": false,
+    "gen": 1
+  },
+  "aerodactyl": {
+    "spawn": 2,
+    "catchRate": 0.07,
+    "rarity": "rare",
+    "xpYield": 60,
+    "dustYield": 250,
+    "evolutionStage": 1,
+    "canEvolve": false,
+    "gen": 1
+  },
+  "kabutops": {
+    "spawn": 2,
+    "catchRate": 0.07,
+    "rarity": "rare",
+    "xpYield": 60,
+    "dustYield": 250,
+    "evolutionStage": 2,
+    "canEvolve": false,
+    "gen": 1
+  },
+  "omastar": {
+    "spawn": 2,
+    "catchRate": 0.07,
+    "rarity": "rare",
+    "xpYield": 60,
+    "dustYield": 250,
+    "evolutionStage": 2,
+    "canEvolve": false,
+    "gen": 1
+  },
+  "dragonite": {
+    "spawn": 2,
+    "catchRate": 0.07,
+    "rarity": "rare",
+    "xpYield": 60,
+    "dustYield": 250,
+    "evolutionStage": 3,
+    "canEvolve": false,
+    "gen": 1
+  },
+  "venusaur": {
+    "spawn": 2,
+    "catchRate": 0.07,
+    "rarity": "rare",
+    "xpYield": 60,
+    "dustYield": 250,
+    "evolutionStage": 3,
+    "canEvolve": false,
+    "gen": 1
+  },
+  "charizard": {
+    "spawn": 2,
+    "catchRate": 0.07,
+    "rarity": "rare",
+    "xpYield": 60,
+    "dustYield": 250,
+    "evolutionStage": 3,
+    "canEvolve": false,
+    "gen": 1
+  },
+  "blastoise": {
+    "spawn": 2,
+    "catchRate": 0.07,
+    "rarity": "rare",
+    "xpYield": 60,
+    "dustYield": 250,
+    "evolutionStage": 3,
+    "canEvolve": false,
+    "gen": 1
+  },
+  "metapod": {
+    "spawn": 6,
+    "catchRate": 0.18,
+    "rarity": "uncommon",
+    "xpYield": 35,
+    "dustYield": 125,
+    "evolutionStage": 2,
+    "canEvolve": true,
+    "gen": 1
+  },
+  "kakuna": {
+    "spawn": 6,
+    "catchRate": 0.18,
+    "rarity": "uncommon",
+    "xpYield": 35,
+    "dustYield": 125,
+    "evolutionStage": 2,
+    "canEvolve": true,
+    "gen": 1
+  },
+  "raticate": {
+    "spawn": 6,
+    "catchRate": 0.2,
+    "rarity": "uncommon",
+    "xpYield": 35,
+    "dustYield": 125,
+    "evolutionStage": 2,
+    "canEvolve": false,
+    "gen": 1
+  },
+  "fearow": {
+    "spawn": 2,
+    "catchRate": 0.14,
+    "rarity": "rare",
+    "xpYield": 60,
+    "dustYield": 250,
+    "evolutionStage": 2,
+    "canEvolve": false,
+    "gen": 1
+  },
+  "ekans": {
+    "spawn": 6,
+    "catchRate": 0.39,
+    "rarity": "uncommon",
+    "xpYield": 35,
+    "dustYield": 125,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 1
+  },
+  "arbok": {
+    "spawn": 2,
+    "catchRate": 0.14,
+    "rarity": "rare",
+    "xpYield": 60,
+    "dustYield": 250,
+    "evolutionStage": 2,
+    "canEvolve": false,
+    "gen": 1
+  },
+  "raichu": {
+    "spawn": 2,
+    "catchRate": 0.12,
+    "rarity": "rare",
+    "xpYield": 60,
+    "dustYield": 250,
+    "evolutionStage": 2,
+    "canEvolve": false,
+    "gen": 1
+  },
+  "sandslash": {
+    "spawn": 2,
+    "catchRate": 0.14,
+    "rarity": "rare",
+    "xpYield": 60,
+    "dustYield": 250,
+    "evolutionStage": 2,
+    "canEvolve": false,
+    "gen": 1
+  },
+  "nidoran-f": {
+    "spawn": 6,
+    "catchRate": 0.36,
+    "rarity": "uncommon",
+    "xpYield": 35,
+    "dustYield": 125,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 1
+  },
+  "nidoqueen": {
+    "spawn": 2,
+    "catchRate": 0.07,
+    "rarity": "rare",
+    "xpYield": 60,
+    "dustYield": 250,
+    "evolutionStage": 3,
+    "canEvolve": false,
+    "gen": 1
+  },
+  "nidoran-m": {
+    "spawn": 6,
+    "catchRate": 0.36,
+    "rarity": "uncommon",
+    "xpYield": 35,
+    "dustYield": 125,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 1
+  },
+  "nidoking": {
+    "spawn": 2,
+    "catchRate": 0.07,
+    "rarity": "rare",
+    "xpYield": 60,
+    "dustYield": 250,
+    "evolutionStage": 3,
+    "canEvolve": false,
+    "gen": 1
+  },
+  "clefairy": {
+    "spawn": 6,
+    "catchRate": 0.23,
+    "rarity": "uncommon",
+    "xpYield": 35,
+    "dustYield": 125,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 1
+  },
+  "clefable": {
+    "spawn": 2,
+    "catchRate": 0.04,
+    "rarity": "rare",
+    "xpYield": 60,
+    "dustYield": 250,
+    "evolutionStage": 2,
+    "canEvolve": false,
+    "gen": 1
+  },
+  "ninetales": {
+    "spawn": 2,
+    "catchRate": 0.12,
+    "rarity": "rare",
+    "xpYield": 60,
+    "dustYield": 250,
+    "evolutionStage": 2,
+    "canEvolve": false,
+    "gen": 1
+  },
+  "jigglypuff": {
+    "spawn": 6,
+    "catchRate": 0.26,
+    "rarity": "uncommon",
+    "xpYield": 35,
+    "dustYield": 125,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 1
+  },
+  "wigglytuff": {
+    "spawn": 2,
+    "catchRate": 0.08,
+    "rarity": "rare",
+    "xpYield": 60,
+    "dustYield": 250,
+    "evolutionStage": 2,
+    "canEvolve": false,
+    "gen": 1
+  },
+  "golbat": {
+    "spawn": 2,
+    "catchRate": 0.14,
+    "rarity": "rare",
+    "xpYield": 60,
+    "dustYield": 250,
+    "evolutionStage": 2,
+    "canEvolve": true,
+    "gen": 1
+  },
+  "vileplume": {
+    "spawn": 2,
+    "catchRate": 0.07,
+    "rarity": "rare",
+    "xpYield": 60,
+    "dustYield": 250,
+    "evolutionStage": 3,
+    "canEvolve": false,
+    "gen": 1
+  },
+  "parasect": {
+    "spawn": 2,
+    "catchRate": 0.12,
+    "rarity": "rare",
+    "xpYield": 60,
+    "dustYield": 250,
+    "evolutionStage": 2,
+    "canEvolve": false,
+    "gen": 1
+  },
+  "venonat": {
+    "spawn": 6,
+    "catchRate": 0.29,
+    "rarity": "uncommon",
+    "xpYield": 35,
+    "dustYield": 125,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 1
+  },
+  "venomoth": {
+    "spawn": 2,
+    "catchRate": 0.12,
+    "rarity": "rare",
+    "xpYield": 60,
+    "dustYield": 250,
+    "evolutionStage": 2,
+    "canEvolve": false,
+    "gen": 1
+  },
+  "diglett": {
+    "spawn": 6,
+    "catchRate": 0.39,
+    "rarity": "uncommon",
+    "xpYield": 35,
+    "dustYield": 125,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 1
+  },
+  "dugtrio": {
+    "spawn": 2,
+    "catchRate": 0.08,
+    "rarity": "rare",
+    "xpYield": 60,
+    "dustYield": 250,
+    "evolutionStage": 2,
+    "canEvolve": false,
+    "gen": 1
+  },
+  "persian": {
+    "spawn": 2,
+    "catchRate": 0.14,
+    "rarity": "rare",
+    "xpYield": 60,
+    "dustYield": 250,
+    "evolutionStage": 2,
+    "canEvolve": false,
+    "gen": 1
+  },
+  "golduck": {
+    "spawn": 2,
+    "catchRate": 0.12,
+    "rarity": "rare",
+    "xpYield": 60,
+    "dustYield": 250,
+    "evolutionStage": 2,
+    "canEvolve": false,
+    "gen": 1
+  },
+  "mankey": {
+    "spawn": 6,
+    "catchRate": 0.29,
+    "rarity": "uncommon",
+    "xpYield": 35,
+    "dustYield": 125,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 1
+  },
+  "primeape": {
+    "spawn": 2,
+    "catchRate": 0.12,
+    "rarity": "rare",
+    "xpYield": 60,
+    "dustYield": 250,
+    "evolutionStage": 2,
+    "canEvolve": true,
+    "gen": 1
+  },
+  "arcanine": {
+    "spawn": 2,
+    "catchRate": 0.12,
+    "rarity": "rare",
+    "xpYield": 60,
+    "dustYield": 250,
+    "evolutionStage": 2,
+    "canEvolve": false,
+    "gen": 1
+  },
+  "poliwag": {
+    "spawn": 6,
+    "catchRate": 0.39,
+    "rarity": "uncommon",
+    "xpYield": 35,
+    "dustYield": 125,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 1
+  },
+  "poliwhirl": {
+    "spawn": 6,
+    "catchRate": 0.18,
+    "rarity": "uncommon",
+    "xpYield": 35,
+    "dustYield": 125,
+    "evolutionStage": 2,
+    "canEvolve": true,
+    "gen": 1
+  },
+  "poliwrath": {
+    "spawn": 2,
+    "catchRate": 0.07,
+    "rarity": "rare",
+    "xpYield": 60,
+    "dustYield": 250,
+    "evolutionStage": 3,
+    "canEvolve": false,
+    "gen": 1
+  },
+  "abra": {
+    "spawn": 6,
+    "catchRate": 0.31,
+    "rarity": "uncommon",
+    "xpYield": 35,
+    "dustYield": 125,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 1
+  },
+  "alakazam": {
+    "spawn": 2,
+    "catchRate": 0.08,
+    "rarity": "rare",
+    "xpYield": 60,
+    "dustYield": 250,
+    "evolutionStage": 3,
+    "canEvolve": false,
+    "gen": 1
+  },
+  "machamp": {
+    "spawn": 2,
+    "catchRate": 0.07,
+    "rarity": "rare",
+    "xpYield": 60,
+    "dustYield": 250,
+    "evolutionStage": 3,
+    "canEvolve": false,
+    "gen": 1
+  },
+  "weepinbell": {
+    "spawn": 6,
+    "catchRate": 0.18,
+    "rarity": "uncommon",
+    "xpYield": 35,
+    "dustYield": 125,
+    "evolutionStage": 2,
+    "canEvolve": true,
+    "gen": 1
+  },
+  "victreebel": {
+    "spawn": 2,
+    "catchRate": 0.07,
+    "rarity": "rare",
+    "xpYield": 60,
+    "dustYield": 250,
+    "evolutionStage": 3,
+    "canEvolve": false,
+    "gen": 1
+  },
+  "tentacruel": {
+    "spawn": 2,
+    "catchRate": 0.09,
+    "rarity": "rare",
+    "xpYield": 60,
+    "dustYield": 250,
+    "evolutionStage": 2,
+    "canEvolve": false,
+    "gen": 1
+  },
+  "graveler": {
+    "spawn": 6,
+    "catchRate": 0.18,
+    "rarity": "uncommon",
+    "xpYield": 35,
+    "dustYield": 125,
+    "evolutionStage": 2,
+    "canEvolve": true,
+    "gen": 1
+  },
+  "golem": {
+    "spawn": 2,
+    "catchRate": 0.07,
+    "rarity": "rare",
+    "xpYield": 60,
+    "dustYield": 250,
+    "evolutionStage": 3,
+    "canEvolve": false,
+    "gen": 1
+  },
+  "ponyta": {
+    "spawn": 6,
+    "catchRate": 0.29,
+    "rarity": "uncommon",
+    "xpYield": 35,
+    "dustYield": 125,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 1
+  },
+  "rapidash": {
+    "spawn": 2,
+    "catchRate": 0.09,
+    "rarity": "rare",
+    "xpYield": 60,
+    "dustYield": 250,
+    "evolutionStage": 2,
+    "canEvolve": false,
+    "gen": 1
+  },
+  "slowbro": {
+    "spawn": 2,
+    "catchRate": 0.12,
+    "rarity": "rare",
+    "xpYield": 60,
+    "dustYield": 250,
+    "evolutionStage": 2,
+    "canEvolve": false,
+    "gen": 1
+  },
+  "magnemite": {
+    "spawn": 6,
+    "catchRate": 0.29,
+    "rarity": "uncommon",
+    "xpYield": 35,
+    "dustYield": 125,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 1
+  },
+  "magneton": {
+    "spawn": 2,
+    "catchRate": 0.09,
+    "rarity": "rare",
+    "xpYield": 60,
+    "dustYield": 250,
+    "evolutionStage": 2,
+    "canEvolve": true,
+    "gen": 1
+  },
+  "farfetchd": {
+    "spawn": 2,
+    "catchRate": 0.07,
+    "rarity": "rare",
+    "xpYield": 60,
+    "dustYield": 250,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 1
+  },
+  "doduo": {
+    "spawn": 6,
+    "catchRate": 0.29,
+    "rarity": "uncommon",
+    "xpYield": 35,
+    "dustYield": 125,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 1
+  },
+  "dodrio": {
+    "spawn": 2,
+    "catchRate": 0.07,
+    "rarity": "rare",
+    "xpYield": 60,
+    "dustYield": 250,
+    "evolutionStage": 2,
+    "canEvolve": false,
+    "gen": 1
+  },
+  "seel": {
+    "spawn": 6,
+    "catchRate": 0.29,
+    "rarity": "uncommon",
+    "xpYield": 35,
+    "dustYield": 125,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 1
+  },
+  "dewgong": {
+    "spawn": 2,
+    "catchRate": 0.12,
+    "rarity": "rare",
+    "xpYield": 60,
+    "dustYield": 250,
+    "evolutionStage": 2,
+    "canEvolve": false,
+    "gen": 1
+  },
+  "grimer": {
+    "spawn": 6,
+    "catchRate": 0.29,
+    "rarity": "uncommon",
+    "xpYield": 35,
+    "dustYield": 125,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 1
+  },
+  "muk": {
+    "spawn": 2,
+    "catchRate": 0.12,
+    "rarity": "rare",
+    "xpYield": 60,
+    "dustYield": 250,
+    "evolutionStage": 2,
+    "canEvolve": false,
+    "gen": 1
+  },
+  "shellder": {
+    "spawn": 6,
+    "catchRate": 0.29,
+    "rarity": "uncommon",
+    "xpYield": 35,
+    "dustYield": 125,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 1
+  },
+  "cloyster": {
+    "spawn": 2,
+    "catchRate": 0.09,
+    "rarity": "rare",
+    "xpYield": 60,
+    "dustYield": 250,
+    "evolutionStage": 2,
+    "canEvolve": false,
+    "gen": 1
+  },
+  "gengar": {
+    "spawn": 2,
+    "catchRate": 0.07,
+    "rarity": "rare",
+    "xpYield": 60,
+    "dustYield": 250,
+    "evolutionStage": 3,
+    "canEvolve": false,
+    "gen": 1
+  },
+  "drowzee": {
+    "spawn": 6,
+    "catchRate": 0.29,
+    "rarity": "uncommon",
+    "xpYield": 35,
+    "dustYield": 125,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 1
+  },
+  "hypno": {
+    "spawn": 2,
+    "catchRate": 0.12,
+    "rarity": "rare",
+    "xpYield": 60,
+    "dustYield": 250,
+    "evolutionStage": 2,
+    "canEvolve": false,
+    "gen": 1
+  },
+  "kingler": {
+    "spawn": 2,
+    "catchRate": 0.09,
+    "rarity": "rare",
+    "xpYield": 60,
+    "dustYield": 250,
+    "evolutionStage": 2,
+    "canEvolve": false,
+    "gen": 1
+  },
+  "voltorb": {
+    "spawn": 6,
+    "catchRate": 0.29,
+    "rarity": "uncommon",
+    "xpYield": 35,
+    "dustYield": 125,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 1
+  },
+  "electrode": {
+    "spawn": 2,
+    "catchRate": 0.09,
+    "rarity": "rare",
+    "xpYield": 60,
+    "dustYield": 250,
+    "evolutionStage": 2,
+    "canEvolve": false,
+    "gen": 1
+  },
+  "exeggcute": {
+    "spawn": 6,
+    "catchRate": 0.14,
+    "rarity": "uncommon",
+    "xpYield": 35,
+    "dustYield": 125,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 1
+  },
+  "exeggutor": {
+    "spawn": 2,
+    "catchRate": 0.07,
+    "rarity": "rare",
+    "xpYield": 60,
+    "dustYield": 250,
+    "evolutionStage": 2,
+    "canEvolve": false,
+    "gen": 1
+  },
+  "cubone": {
+    "spawn": 6,
+    "catchRate": 0.29,
+    "rarity": "uncommon",
+    "xpYield": 35,
+    "dustYield": 125,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 1
+  },
+  "marowak": {
+    "spawn": 2,
+    "catchRate": 0.12,
+    "rarity": "rare",
+    "xpYield": 60,
+    "dustYield": 250,
+    "evolutionStage": 2,
+    "canEvolve": false,
+    "gen": 1
+  },
+  "hitmonlee": {
+    "spawn": 2,
+    "catchRate": 0.07,
+    "rarity": "rare",
+    "xpYield": 60,
+    "dustYield": 250,
+    "evolutionStage": 1,
+    "canEvolve": false,
+    "gen": 1
+  },
+  "hitmonchan": {
+    "spawn": 2,
+    "catchRate": 0.07,
+    "rarity": "rare",
+    "xpYield": 60,
+    "dustYield": 250,
+    "evolutionStage": 1,
+    "canEvolve": false,
+    "gen": 1
+  },
+  "koffing": {
+    "spawn": 6,
+    "catchRate": 0.29,
+    "rarity": "uncommon",
+    "xpYield": 35,
+    "dustYield": 125,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 1
+  },
+  "weezing": {
+    "spawn": 2,
+    "catchRate": 0.09,
+    "rarity": "rare",
+    "xpYield": 60,
+    "dustYield": 250,
+    "evolutionStage": 2,
+    "canEvolve": false,
+    "gen": 1
+  },
+  "rhyhorn": {
+    "spawn": 6,
+    "catchRate": 0.18,
+    "rarity": "uncommon",
+    "xpYield": 35,
+    "dustYield": 125,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 1
+  },
+  "rhydon": {
+    "spawn": 2,
+    "catchRate": 0.09,
+    "rarity": "rare",
+    "xpYield": 60,
+    "dustYield": 250,
+    "evolutionStage": 2,
+    "canEvolve": true,
+    "gen": 1
+  },
+  "chansey": {
+    "spawn": 2,
+    "catchRate": 0.05,
+    "rarity": "rare",
+    "xpYield": 60,
+    "dustYield": 250,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 1
+  },
+  "tangela": {
+    "spawn": 2,
+    "catchRate": 0.07,
+    "rarity": "rare",
+    "xpYield": 60,
+    "dustYield": 250,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 1
+  },
+  "kangaskhan": {
+    "spawn": 2,
+    "catchRate": 0.07,
+    "rarity": "rare",
+    "xpYield": 60,
+    "dustYield": 250,
+    "evolutionStage": 1,
+    "canEvolve": false,
+    "gen": 1
+  },
+  "seadra": {
+    "spawn": 2,
+    "catchRate": 0.12,
+    "rarity": "rare",
+    "xpYield": 60,
+    "dustYield": 250,
+    "evolutionStage": 2,
+    "canEvolve": true,
+    "gen": 1
+  },
+  "seaking": {
+    "spawn": 2,
+    "catchRate": 0.09,
+    "rarity": "rare",
+    "xpYield": 60,
+    "dustYield": 250,
+    "evolutionStage": 2,
+    "canEvolve": false,
+    "gen": 1
+  },
+  "staryu": {
+    "spawn": 6,
+    "catchRate": 0.35,
+    "rarity": "uncommon",
+    "xpYield": 35,
+    "dustYield": 125,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 1
+  },
+  "starmie": {
+    "spawn": 2,
+    "catchRate": 0.09,
+    "rarity": "rare",
+    "xpYield": 60,
+    "dustYield": 250,
+    "evolutionStage": 2,
+    "canEvolve": false,
+    "gen": 1
+  },
+  "mr-mime": {
+    "spawn": 2,
+    "catchRate": 0.07,
+    "rarity": "rare",
+    "xpYield": 60,
+    "dustYield": 250,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 1
+  },
+  "pinsir": {
+    "spawn": 2,
+    "catchRate": 0.07,
+    "rarity": "rare",
+    "xpYield": 60,
+    "dustYield": 250,
+    "evolutionStage": 1,
+    "canEvolve": false,
+    "gen": 1
+  },
+  "tauros": {
+    "spawn": 2,
+    "catchRate": 0.07,
+    "rarity": "rare",
+    "xpYield": 60,
+    "dustYield": 250,
+    "evolutionStage": 1,
+    "canEvolve": false,
+    "gen": 1
+  },
+  "gyarados": {
+    "spawn": 2,
+    "catchRate": 0.07,
+    "rarity": "rare",
+    "xpYield": 60,
+    "dustYield": 250,
+    "evolutionStage": 2,
+    "canEvolve": false,
+    "gen": 1
+  },
+  "lapras": {
+    "spawn": 2,
+    "catchRate": 0.07,
+    "rarity": "rare",
+    "xpYield": 60,
+    "dustYield": 250,
+    "evolutionStage": 1,
+    "canEvolve": false,
+    "gen": 1
+  },
+  "ditto": {
+    "spawn": 2,
+    "catchRate": 0.05,
+    "rarity": "rare",
+    "xpYield": 60,
+    "dustYield": 250,
+    "evolutionStage": 1,
+    "canEvolve": false,
+    "gen": 1
+  },
+  "vaporeon": {
+    "spawn": 2,
+    "catchRate": 0.07,
+    "rarity": "rare",
+    "xpYield": 60,
+    "dustYield": 250,
+    "evolutionStage": 2,
+    "canEvolve": false,
+    "gen": 1
+  },
+  "jolteon": {
+    "spawn": 2,
+    "catchRate": 0.07,
+    "rarity": "rare",
+    "xpYield": 60,
+    "dustYield": 250,
+    "evolutionStage": 2,
+    "canEvolve": false,
+    "gen": 1
+  },
+  "flareon": {
+    "spawn": 2,
+    "catchRate": 0.07,
+    "rarity": "rare",
+    "xpYield": 60,
+    "dustYield": 250,
+    "evolutionStage": 2,
+    "canEvolve": false,
+    "gen": 1
+  },
+  "snorlax": {
+    "spawn": 2,
+    "catchRate": 0.04,
+    "rarity": "rare",
+    "xpYield": 60,
+    "dustYield": 250,
+    "evolutionStage": 1,
+    "canEvolve": false,
+    "gen": 1
+  },
+  "chikorita": {
+    "spawn": 28,
+    "catchRate": 0.29,
+    "rarity": "common",
+    "xpYield": 20,
+    "dustYield": 50,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 2
+  },
+  "bayleef": {
+    "spawn": 6,
+    "catchRate": 0.18,
+    "rarity": "uncommon",
+    "xpYield": 35,
+    "dustYield": 125,
+    "evolutionStage": 2,
+    "canEvolve": true,
+    "gen": 2
+  },
+  "meganium": {
+    "spawn": 2,
+    "catchRate": 0.07647058823529412,
+    "rarity": "rare",
+    "xpYield": 60,
+    "dustYield": 250,
+    "evolutionStage": 3,
+    "canEvolve": false,
+    "gen": 2
+  },
+  "cyndaquil": {
+    "spawn": 28,
+    "catchRate": 0.29,
+    "rarity": "common",
+    "xpYield": 20,
+    "dustYield": 50,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 2
+  },
+  "quilava": {
+    "spawn": 6,
+    "catchRate": 0.18,
+    "rarity": "uncommon",
+    "xpYield": 35,
+    "dustYield": 125,
+    "evolutionStage": 2,
+    "canEvolve": true,
+    "gen": 2
+  },
+  "typhlosion": {
+    "spawn": 2,
+    "catchRate": 0.07647058823529412,
+    "rarity": "rare",
+    "xpYield": 60,
+    "dustYield": 250,
+    "evolutionStage": 3,
+    "canEvolve": false,
+    "gen": 2
+  },
+  "totodile": {
+    "spawn": 28,
+    "catchRate": 0.29,
+    "rarity": "common",
+    "xpYield": 20,
+    "dustYield": 50,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 2
+  },
+  "croconaw": {
+    "spawn": 6,
+    "catchRate": 0.18,
+    "rarity": "uncommon",
+    "xpYield": 35,
+    "dustYield": 125,
+    "evolutionStage": 2,
+    "canEvolve": true,
+    "gen": 2
+  },
+  "feraligatr": {
+    "spawn": 2,
+    "catchRate": 0.07647058823529412,
+    "rarity": "rare",
+    "xpYield": 60,
+    "dustYield": 250,
+    "evolutionStage": 3,
+    "canEvolve": false,
+    "gen": 2
+  },
+  "sentret": {
+    "spawn": 28,
+    "catchRate": 0.35,
+    "rarity": "common",
+    "xpYield": 20,
+    "dustYield": 50,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 2
+  },
+  "furret": {
+    "spawn": 6,
+    "catchRate": 0.18294117647058827,
+    "rarity": "uncommon",
+    "xpYield": 35,
+    "dustYield": 125,
+    "evolutionStage": 2,
+    "canEvolve": false,
+    "gen": 2
+  },
+  "hoothoot": {
+    "spawn": 28,
+    "catchRate": 0.35,
+    "rarity": "common",
+    "xpYield": 20,
+    "dustYield": 50,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 2
+  },
+  "noctowl": {
+    "spawn": 6,
+    "catchRate": 0.18294117647058827,
+    "rarity": "uncommon",
+    "xpYield": 35,
+    "dustYield": 125,
+    "evolutionStage": 2,
+    "canEvolve": false,
+    "gen": 2
+  },
+  "ledyba": {
+    "spawn": 28,
+    "catchRate": 0.35,
+    "rarity": "common",
+    "xpYield": 20,
+    "dustYield": 50,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 2
+  },
+  "ledian": {
+    "spawn": 28,
+    "catchRate": 0.18294117647058827,
+    "rarity": "uncommon",
+    "xpYield": 35,
+    "dustYield": 125,
+    "evolutionStage": 2,
+    "canEvolve": false,
+    "gen": 2
+  },
+  "spinarak": {
+    "spawn": 28,
+    "catchRate": 0.35,
+    "rarity": "common",
+    "xpYield": 20,
+    "dustYield": 50,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 2
+  },
+  "ariados": {
+    "spawn": 6,
+    "catchRate": 0.18294117647058827,
+    "rarity": "uncommon",
+    "xpYield": 35,
+    "dustYield": 125,
+    "evolutionStage": 2,
+    "canEvolve": false,
+    "gen": 2
+  },
+  "crobat": {
+    "spawn": 2,
+    "catchRate": 0.07294117647058826,
+    "rarity": "rare",
+    "xpYield": 60,
+    "dustYield": 250,
+    "evolutionStage": 3,
+    "canEvolve": false,
+    "gen": 2
+  },
+  "chinchou": {
+    "spawn": 28,
+    "catchRate": 0.35,
+    "rarity": "common",
+    "xpYield": 20,
+    "dustYield": 50,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 2
+  },
+  "lanturn": {
+    "spawn": 6,
+    "catchRate": 0.19411764705882353,
+    "rarity": "uncommon",
+    "xpYield": 35,
+    "dustYield": 125,
+    "evolutionStage": 2,
+    "canEvolve": false,
+    "gen": 2
+  },
+  "pichu": {
+    "spawn": 6,
+    "catchRate": 0.15,
+    "rarity": "uncommon",
+    "xpYield": 20,
+    "dustYield": 50,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 2
+  },
+  "cleffa": {
+    "spawn": 28,
+    "catchRate": 0.19,
+    "rarity": "common",
+    "xpYield": 20,
+    "dustYield": 50,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 2
+  },
+  "igglybuff": {
+    "spawn": 28,
+    "catchRate": 0.25,
+    "rarity": "common",
+    "xpYield": 20,
+    "dustYield": 50,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 2
+  },
+  "togepi": {
+    "spawn": 28,
+    "catchRate": 0.25,
+    "rarity": "common",
+    "xpYield": 20,
+    "dustYield": 50,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 2
+  },
+  "togetic": {
+    "spawn": 6,
+    "catchRate": 0.19411764705882353,
+    "rarity": "uncommon",
+    "xpYield": 35,
+    "dustYield": 125,
+    "evolutionStage": 2,
+    "canEvolve": true,
+    "gen": 2
+  },
+  "natu": {
+    "spawn": 28,
+    "catchRate": 0.35,
+    "rarity": "common",
+    "xpYield": 20,
+    "dustYield": 50,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 2
+  },
+  "xatu": {
+    "spawn": 6,
+    "catchRate": 0.09411764705882354,
+    "rarity": "uncommon",
+    "xpYield": 35,
+    "dustYield": 125,
+    "evolutionStage": 2,
+    "canEvolve": false,
+    "gen": 2
+  },
+  "mareep": {
+    "spawn": 28,
+    "catchRate": 0.25,
+    "rarity": "common",
+    "xpYield": 20,
+    "dustYield": 50,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 2
+  },
+  "flaaffy": {
+    "spawn": 28,
+    "catchRate": 0.17058823529411765,
+    "rarity": "uncommon",
+    "xpYield": 35,
+    "dustYield": 125,
+    "evolutionStage": 2,
+    "canEvolve": true,
+    "gen": 2
+  },
+  "ampharos": {
+    "spawn": 2,
+    "catchRate": 0.07647058823529412,
+    "rarity": "rare",
+    "xpYield": 60,
+    "dustYield": 250,
+    "evolutionStage": 3,
+    "canEvolve": false,
+    "gen": 2
+  },
+  "bellossom": {
+    "spawn": 6,
+    "catchRate": 0.18,
+    "rarity": "rare",
+    "xpYield": 60,
+    "dustYield": 250,
+    "evolutionStage": 3,
+    "canEvolve": false,
+    "gen": 2
+  },
+  "marill": {
+    "spawn": 28,
+    "catchRate": 0.35,
+    "rarity": "uncommon",
+    "xpYield": 35,
+    "dustYield": 125,
+    "evolutionStage": 2,
+    "canEvolve": true,
+    "gen": 2
+  },
+  "azumarill": {
+    "spawn": 6,
+    "catchRate": 0.19411764705882353,
+    "rarity": "rare",
+    "xpYield": 60,
+    "dustYield": 250,
+    "evolutionStage": 3,
+    "canEvolve": false,
+    "gen": 2
+  },
+  "sudowoodo": {
+    "spawn": 6,
+    "catchRate": 0.2549019607843137,
+    "rarity": "uncommon",
+    "xpYield": 35,
+    "dustYield": 125,
+    "evolutionStage": 2,
+    "canEvolve": false,
+    "gen": 2
+  },
+  "politoed": {
+    "spawn": 2,
+    "catchRate": 0.07647058823529412,
+    "rarity": "rare",
+    "xpYield": 60,
+    "dustYield": 250,
+    "evolutionStage": 3,
+    "canEvolve": false,
+    "gen": 2
+  },
+  "hoppip": {
+    "spawn": 28,
+    "catchRate": 0.35,
+    "rarity": "common",
+    "xpYield": 20,
+    "dustYield": 50,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 2
+  },
+  "skiploom": {
+    "spawn": 28,
+    "catchRate": 0.17058823529411765,
+    "rarity": "uncommon",
+    "xpYield": 35,
+    "dustYield": 125,
+    "evolutionStage": 2,
+    "canEvolve": true,
+    "gen": 2
+  },
+  "jumpluff": {
+    "spawn": 6,
+    "catchRate": 0.08,
+    "rarity": "rare",
+    "xpYield": 60,
+    "dustYield": 250,
+    "evolutionStage": 3,
+    "canEvolve": false,
+    "gen": 2
+  },
+  "aipom": {
+    "spawn": 28,
+    "catchRate": 0.29,
+    "rarity": "common",
+    "xpYield": 20,
+    "dustYield": 50,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 2
+  },
+  "sunkern": {
+    "spawn": 28,
+    "catchRate": 0.35,
+    "rarity": "common",
+    "xpYield": 20,
+    "dustYield": 50,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 2
+  },
+  "sunflora": {
+    "spawn": 6,
+    "catchRate": 0.17058823529411765,
+    "rarity": "uncommon",
+    "xpYield": 35,
+    "dustYield": 125,
+    "evolutionStage": 2,
+    "canEvolve": false,
+    "gen": 2
+  },
+  "yanma": {
+    "spawn": 28,
+    "catchRate": 0.29411764705882354,
+    "rarity": "common",
+    "xpYield": 20,
+    "dustYield": 50,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 2
+  },
+  "wooper": {
+    "spawn": 28,
+    "catchRate": 0.35,
+    "rarity": "common",
+    "xpYield": 20,
+    "dustYield": 50,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 2
+  },
+  "quagsire": {
+    "spawn": 6,
+    "catchRate": 0.15294117647058825,
+    "rarity": "uncommon",
+    "xpYield": 35,
+    "dustYield": 125,
+    "evolutionStage": 2,
+    "canEvolve": false,
+    "gen": 2
+  },
+  "espeon": {
+    "spawn": 2,
+    "catchRate": 0.07647058823529412,
+    "rarity": "rare",
+    "xpYield": 60,
+    "dustYield": 250,
+    "evolutionStage": 2,
+    "canEvolve": false,
+    "gen": 2
+  },
+  "umbreon": {
+    "spawn": 2,
+    "catchRate": 0.07647058823529412,
+    "rarity": "rare",
+    "xpYield": 60,
+    "dustYield": 250,
+    "evolutionStage": 2,
+    "canEvolve": false,
+    "gen": 2
+  },
+  "murkrow": {
+    "spawn": 6,
+    "catchRate": 0.18,
+    "rarity": "uncommon",
+    "xpYield": 35,
+    "dustYield": 125,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 2
+  },
+  "slowking": {
+    "spawn": 6,
+    "catchRate": 0.17450980392156865,
+    "rarity": "uncommon",
+    "xpYield": 35,
+    "dustYield": 125,
+    "evolutionStage": 2,
+    "canEvolve": false,
+    "gen": 2
+  },
+  "misdreavus": {
+    "spawn": 6,
+    "catchRate": 0.18,
+    "rarity": "uncommon",
+    "xpYield": 35,
+    "dustYield": 125,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 2
+  },
+  "unown": {
+    "spawn": 28,
+    "catchRate": 0.35,
+    "rarity": "common",
+    "xpYield": 20,
+    "dustYield": 50,
+    "evolutionStage": 1,
+    "canEvolve": false,
+    "gen": 2
+  },
+  "wobbuffet": {
+    "spawn": 6,
+    "catchRate": 0.18,
+    "rarity": "uncommon",
+    "xpYield": 35,
+    "dustYield": 125,
+    "evolutionStage": 2,
+    "canEvolve": false,
+    "gen": 2
+  },
+  "girafarig": {
+    "spawn": 6,
+    "catchRate": 0.23529411764705882,
+    "rarity": "uncommon",
+    "xpYield": 35,
+    "dustYield": 125,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 2
+  },
+  "pineco": {
+    "spawn": 28,
+    "catchRate": 0.35,
+    "rarity": "common",
+    "xpYield": 20,
+    "dustYield": 50,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 2
+  },
+  "forretress": {
+    "spawn": 6,
+    "catchRate": 0.19411764705882353,
+    "rarity": "uncommon",
+    "xpYield": 35,
+    "dustYield": 125,
+    "evolutionStage": 2,
+    "canEvolve": false,
+    "gen": 2
+  },
+  "dunsparce": {
+    "spawn": 6,
+    "catchRate": 0.35,
+    "rarity": "uncommon",
+    "xpYield": 35,
+    "dustYield": 125,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 2
+  },
+  "gligar": {
+    "spawn": 6,
+    "catchRate": 0.13529411764705881,
+    "rarity": "uncommon",
+    "xpYield": 35,
+    "dustYield": 125,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 2
+  },
+  "steelix": {
+    "spawn": 2,
+    "catchRate": 0.09803921568627451,
+    "rarity": "rare",
+    "xpYield": 60,
+    "dustYield": 250,
+    "evolutionStage": 2,
+    "canEvolve": false,
+    "gen": 2
+  },
+  "snubbull": {
+    "spawn": 28,
+    "catchRate": 0.35,
+    "rarity": "common",
+    "xpYield": 20,
+    "dustYield": 50,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 2
+  },
+  "granbull": {
+    "spawn": 6,
+    "catchRate": 0.19411764705882353,
+    "rarity": "uncommon",
+    "xpYield": 35,
+    "dustYield": 125,
+    "evolutionStage": 2,
+    "canEvolve": false,
+    "gen": 2
+  },
+  "qwilfish": {
+    "spawn": 6,
+    "catchRate": 0.18,
+    "rarity": "uncommon",
+    "xpYield": 35,
+    "dustYield": 125,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 2
+  },
+  "scizor": {
+    "spawn": 2,
+    "catchRate": 0.09803921568627451,
+    "rarity": "rare",
+    "xpYield": 60,
+    "dustYield": 250,
+    "evolutionStage": 2,
+    "canEvolve": false,
+    "gen": 2
+  },
+  "shuckle": {
+    "spawn": 2,
+    "catchRate": 0.35,
+    "rarity": "rare",
+    "xpYield": 60,
+    "dustYield": 250,
+    "evolutionStage": 1,
+    "canEvolve": false,
+    "gen": 2
+  },
+  "heracross": {
+    "spawn": 2,
+    "catchRate": 0.17647058823529413,
+    "rarity": "rare",
+    "xpYield": 60,
+    "dustYield": 250,
+    "evolutionStage": 1,
+    "canEvolve": false,
+    "gen": 2
+  },
+  "sneasel": {
+    "spawn": 6,
+    "catchRate": 0.23529411764705882,
+    "rarity": "uncommon",
+    "xpYield": 35,
+    "dustYield": 125,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 2
+  },
+  "teddiursa": {
+    "spawn": 28,
+    "catchRate": 0.37058823529411766,
+    "rarity": "common",
+    "xpYield": 20,
+    "dustYield": 50,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 2
+  },
+  "ursaring": {
+    "spawn": 2,
+    "catchRate": 0.13529411764705881,
+    "rarity": "rare",
+    "xpYield": 60,
+    "dustYield": 250,
+    "evolutionStage": 2,
+    "canEvolve": true,
+    "gen": 2
+  },
+  "slugma": {
+    "spawn": 28,
+    "catchRate": 0.35,
+    "rarity": "common",
+    "xpYield": 20,
+    "dustYield": 50,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 2
+  },
+  "magcargo": {
+    "spawn": 6,
+    "catchRate": 0.19411764705882353,
+    "rarity": "uncommon",
+    "xpYield": 35,
+    "dustYield": 125,
+    "evolutionStage": 2,
+    "canEvolve": false,
+    "gen": 2
+  },
+  "swinub": {
+    "spawn": 28,
+    "catchRate": 0.35,
+    "rarity": "common",
+    "xpYield": 20,
+    "dustYield": 50,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 2
+  },
+  "piloswine": {
+    "spawn": 6,
+    "catchRate": 0.19411764705882353,
+    "rarity": "uncommon",
+    "xpYield": 35,
+    "dustYield": 125,
+    "evolutionStage": 2,
+    "canEvolve": true,
+    "gen": 2
+  },
+  "corsola": {
+    "spawn": 6,
+    "catchRate": 0.23529411764705882,
+    "rarity": "uncommon",
+    "xpYield": 35,
+    "dustYield": 125,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 2
+  },
+  "remoraid": {
+    "spawn": 28,
+    "catchRate": 0.35,
+    "rarity": "common",
+    "xpYield": 20,
+    "dustYield": 50,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 2
+  },
+  "octillery": {
+    "spawn": 6,
+    "catchRate": 0.19411764705882353,
+    "rarity": "uncommon",
+    "xpYield": 35,
+    "dustYield": 125,
+    "evolutionStage": 2,
+    "canEvolve": false,
+    "gen": 2
+  },
+  "delibird": {
+    "spawn": 28,
+    "catchRate": 0.29,
+    "rarity": "common",
+    "xpYield": 20,
+    "dustYield": 50,
+    "evolutionStage": 1,
+    "canEvolve": false,
+    "gen": 2
+  },
+  "mantine": {
+    "spawn": 6,
+    "catchRate": 0.18,
+    "rarity": "uncommon",
+    "xpYield": 35,
+    "dustYield": 125,
+    "evolutionStage": 2,
+    "canEvolve": false,
+    "gen": 2
+  },
+  "skarmory": {
+    "spawn": 6,
+    "catchRate": 0.18,
+    "rarity": "uncommon",
+    "xpYield": 35,
+    "dustYield": 125,
+    "evolutionStage": 1,
+    "canEvolve": false,
+    "gen": 2
+  },
+  "houndour": {
+    "spawn": 28,
+    "catchRate": 0.37058823529411766,
+    "rarity": "common",
+    "xpYield": 20,
+    "dustYield": 50,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 2
+  },
+  "houndoom": {
+    "spawn": 2,
+    "catchRate": 0.17647058823529413,
+    "rarity": "rare",
+    "xpYield": 60,
+    "dustYield": 250,
+    "evolutionStage": 2,
+    "canEvolve": false,
+    "gen": 2
+  },
+  "kingdra": {
+    "spawn": 2,
+    "catchRate": 0.17647058823529413,
+    "rarity": "rare",
+    "xpYield": 60,
+    "dustYield": 250,
+    "evolutionStage": 3,
+    "canEvolve": false,
+    "gen": 2
+  },
+  "phanpy": {
+    "spawn": 28,
+    "catchRate": 0.37058823529411766,
+    "rarity": "common",
+    "xpYield": 20,
+    "dustYield": 50,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 2
+  },
+  "donphan": {
+    "spawn": 2,
+    "catchRate": 0.13529411764705881,
+    "rarity": "rare",
+    "xpYield": 60,
+    "dustYield": 250,
+    "evolutionStage": 2,
+    "canEvolve": false,
+    "gen": 2
+  },
+  "porygon2": {
+    "spawn": 2,
+    "catchRate": 0.17647058823529413,
+    "rarity": "rare",
+    "xpYield": 60,
+    "dustYield": 250,
+    "evolutionStage": 2,
+    "canEvolve": true,
+    "gen": 2
+  },
+  "stantler": {
+    "spawn": 6,
+    "catchRate": 0.18,
+    "rarity": "uncommon",
+    "xpYield": 35,
+    "dustYield": 125,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 2
+  },
+  "smeargle": {
+    "spawn": 28,
+    "catchRate": 0.29,
+    "rarity": "common",
+    "xpYield": 20,
+    "dustYield": 50,
+    "evolutionStage": 1,
+    "canEvolve": false,
+    "gen": 2
+  },
+  "tyrogue": {
+    "spawn": 28,
+    "catchRate": 0.29411764705882354,
+    "rarity": "common",
+    "xpYield": 20,
+    "dustYield": 50,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 2
+  },
+  "hitmontop": {
+    "spawn": 6,
+    "catchRate": 0.18,
+    "rarity": "uncommon",
+    "xpYield": 35,
+    "dustYield": 125,
+    "evolutionStage": 2,
+    "canEvolve": false,
+    "gen": 2
+  },
+  "smoochum": {
+    "spawn": 6,
+    "catchRate": 0.19,
+    "rarity": "uncommon",
+    "xpYield": 20,
+    "dustYield": 50,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 2
+  },
+  "elekid": {
+    "spawn": 6,
+    "catchRate": 0.29,
+    "rarity": "uncommon",
+    "xpYield": 20,
+    "dustYield": 50,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 2
+  },
+  "magby": {
+    "spawn": 6,
+    "catchRate": 0.29,
+    "rarity": "uncommon",
+    "xpYield": 20,
+    "dustYield": 50,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 2
+  },
+  "miltank": {
+    "spawn": 6,
+    "catchRate": 0.18,
+    "rarity": "uncommon",
+    "xpYield": 35,
+    "dustYield": 125,
+    "evolutionStage": 1,
+    "canEvolve": false,
+    "gen": 2
+  },
+  "blissey": {
+    "spawn": 2,
+    "catchRate": 0.11764705882352941,
+    "rarity": "rare",
+    "xpYield": 60,
+    "dustYield": 250,
+    "evolutionStage": 3,
+    "canEvolve": false,
+    "gen": 2
+  },
+  "raikou": {
+    "spawn": 2,
+    "catchRate": 0.02,
+    "rarity": "legendary",
+    "xpYield": 150,
+    "dustYield": 750,
+    "evolutionStage": 1,
+    "canEvolve": false,
+    "gen": 2
+  },
+  "entei": {
+    "spawn": 2,
+    "catchRate": 0.02,
+    "rarity": "legendary",
+    "xpYield": 150,
+    "dustYield": 750,
+    "evolutionStage": 1,
+    "canEvolve": false,
+    "gen": 2
+  },
+  "suicune": {
+    "spawn": 2,
+    "catchRate": 0.02,
+    "rarity": "legendary",
+    "xpYield": 150,
+    "dustYield": 750,
+    "evolutionStage": 1,
+    "canEvolve": false,
+    "gen": 2
+  },
+  "larvitar": {
+    "spawn": 28,
+    "catchRate": 0.19,
+    "rarity": "common",
+    "xpYield": 20,
+    "dustYield": 50,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 2
+  },
+  "pupitar": {
+    "spawn": 6,
+    "catchRate": 0.08,
+    "rarity": "uncommon",
+    "xpYield": 35,
+    "dustYield": 125,
+    "evolutionStage": 2,
+    "canEvolve": true,
+    "gen": 2
+  },
+  "tyranitar": {
+    "spawn": 1,
+    "catchRate": 0.01764705882352941,
+    "rarity": "legendary",
+    "xpYield": 150,
+    "dustYield": 750,
+    "evolutionStage": 3,
+    "canEvolve": false,
+    "gen": 2
+  },
+  "lugia": {
+    "spawn": 1,
+    "catchRate": 0.011764705882352941,
+    "rarity": "legendary",
+    "xpYield": 150,
+    "dustYield": 750,
+    "evolutionStage": 1,
+    "canEvolve": false,
+    "gen": 2
+  },
+  "ho-oh": {
+    "spawn": 1,
+    "catchRate": 0.011764705882352941,
+    "rarity": "legendary",
+    "xpYield": 150,
+    "dustYield": 750,
+    "evolutionStage": 1,
+    "canEvolve": false,
+    "gen": 2
+  },
+  "celebi": {
+    "spawn": 1,
+    "catchRate": 0.01764705882352941,
+    "rarity": "legendary",
+    "xpYield": 150,
+    "dustYield": 750,
+    "evolutionStage": 1,
+    "canEvolve": false,
+    "gen": 2
+  },
+  "treecko": {
+    "spawn": 28,
+    "catchRate": 0.29,
+    "rarity": "common",
+    "xpYield": 20,
+    "dustYield": 50,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 3
+  },
+  "grovyle": {
+    "spawn": 6,
+    "catchRate": 0.18,
+    "rarity": "uncommon",
+    "xpYield": 35,
+    "dustYield": 125,
+    "evolutionStage": 2,
+    "canEvolve": true,
+    "gen": 3
+  },
+  "sceptile": {
+    "spawn": 2,
+    "catchRate": 0.17647058823529413,
+    "rarity": "rare",
+    "xpYield": 60,
+    "dustYield": 250,
+    "evolutionStage": 3,
+    "canEvolve": false,
+    "gen": 3
+  },
+  "torchic": {
+    "spawn": 28,
+    "catchRate": 0.29,
+    "rarity": "common",
+    "xpYield": 20,
+    "dustYield": 50,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 3
+  },
+  "combusken": {
+    "spawn": 6,
+    "catchRate": 0.18,
+    "rarity": "uncommon",
+    "xpYield": 35,
+    "dustYield": 125,
+    "evolutionStage": 2,
+    "canEvolve": true,
+    "gen": 3
+  },
+  "blaziken": {
+    "spawn": 2,
+    "catchRate": 0.17647058823529413,
+    "rarity": "rare",
+    "xpYield": 60,
+    "dustYield": 250,
+    "evolutionStage": 3,
+    "canEvolve": false,
+    "gen": 3
+  },
+  "mudkip": {
+    "spawn": 28,
+    "catchRate": 0.29,
+    "rarity": "common",
+    "xpYield": 20,
+    "dustYield": 50,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 3
+  },
+  "marshtomp": {
+    "spawn": 6,
+    "catchRate": 0.18,
+    "rarity": "uncommon",
+    "xpYield": 35,
+    "dustYield": 125,
+    "evolutionStage": 2,
+    "canEvolve": true,
+    "gen": 3
+  },
+  "swampert": {
+    "spawn": 2,
+    "catchRate": 0.17647058823529413,
+    "rarity": "rare",
+    "xpYield": 60,
+    "dustYield": 250,
+    "evolutionStage": 3,
+    "canEvolve": false,
+    "gen": 3
+  },
+  "poochyena": {
+    "spawn": 28,
+    "catchRate": 0.35,
+    "rarity": "common",
+    "xpYield": 20,
+    "dustYield": 50,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 3
+  },
+  "mightyena": {
+    "spawn": 6,
+    "catchRate": 0.2980392156862745,
+    "rarity": "uncommon",
+    "xpYield": 35,
+    "dustYield": 125,
+    "evolutionStage": 2,
+    "canEvolve": false,
+    "gen": 3
+  },
+  "zigzagoon": {
+    "spawn": 28,
+    "catchRate": 0.35,
+    "rarity": "common",
+    "xpYield": 20,
+    "dustYield": 50,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 3
+  },
+  "linoone": {
+    "spawn": 6,
+    "catchRate": 0.2529411764705883,
+    "rarity": "uncommon",
+    "xpYield": 35,
+    "dustYield": 125,
+    "evolutionStage": 2,
+    "canEvolve": true,
+    "gen": 3
+  },
+  "wurmple": {
+    "spawn": 28,
+    "catchRate": 0.35,
+    "rarity": "common",
+    "xpYield": 20,
+    "dustYield": 50,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 3
+  },
+  "silcoon": {
+    "spawn": 28,
+    "catchRate": 0.27058823529411763,
+    "rarity": "common",
+    "xpYield": 20,
+    "dustYield": 50,
+    "evolutionStage": 2,
+    "canEvolve": true,
+    "gen": 3
+  },
+  "beautifly": {
+    "spawn": 28,
+    "catchRate": 0.19,
+    "rarity": "common",
+    "xpYield": 20,
+    "dustYield": 50,
+    "evolutionStage": 3,
+    "canEvolve": false,
+    "gen": 3
+  },
+  "cascoon": {
+    "spawn": 28,
+    "catchRate": 0.37058823529411766,
+    "rarity": "common",
+    "xpYield": 20,
+    "dustYield": 50,
+    "evolutionStage": 2,
+    "canEvolve": true,
+    "gen": 3
+  },
+  "dustox": {
+    "spawn": 28,
+    "catchRate": 0.29,
+    "rarity": "common",
+    "xpYield": 20,
+    "dustYield": 50,
+    "evolutionStage": 3,
+    "canEvolve": false,
+    "gen": 3
+  },
+  "lotad": {
+    "spawn": 28,
+    "catchRate": 0.35,
+    "rarity": "common",
+    "xpYield": 20,
+    "dustYield": 50,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 3
+  },
+  "lombre": {
+    "spawn": 28,
+    "catchRate": 0.27058823529411763,
+    "rarity": "common",
+    "xpYield": 20,
+    "dustYield": 50,
+    "evolutionStage": 2,
+    "canEvolve": true,
+    "gen": 3
+  },
+  "ludicolo": {
+    "spawn": 6,
+    "catchRate": 0.18,
+    "rarity": "uncommon",
+    "xpYield": 35,
+    "dustYield": 125,
+    "evolutionStage": 3,
+    "canEvolve": false,
+    "gen": 3
+  },
+  "seedot": {
+    "spawn": 28,
+    "catchRate": 0.35,
+    "rarity": "common",
+    "xpYield": 20,
+    "dustYield": 50,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 3
+  },
+  "nuzleaf": {
+    "spawn": 28,
+    "catchRate": 0.27058823529411763,
+    "rarity": "common",
+    "xpYield": 20,
+    "dustYield": 50,
+    "evolutionStage": 2,
+    "canEvolve": true,
+    "gen": 3
+  },
+  "shiftry": {
+    "spawn": 6,
+    "catchRate": 0.18,
+    "rarity": "uncommon",
+    "xpYield": 35,
+    "dustYield": 125,
+    "evolutionStage": 3,
+    "canEvolve": false,
+    "gen": 3
+  },
+  "taillow": {
+    "spawn": 28,
+    "catchRate": 0.3843137254901961,
+    "rarity": "common",
+    "xpYield": 20,
+    "dustYield": 50,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 3
+  },
+  "swellow": {
+    "spawn": 6,
+    "catchRate": 0.18,
+    "rarity": "uncommon",
+    "xpYield": 35,
+    "dustYield": 125,
+    "evolutionStage": 2,
+    "canEvolve": false,
+    "gen": 3
+  },
+  "wingull": {
+    "spawn": 28,
+    "catchRate": 0.3450980392156863,
+    "rarity": "common",
+    "xpYield": 20,
+    "dustYield": 50,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 3
+  },
+  "pelipper": {
+    "spawn": 6,
+    "catchRate": 0.18,
+    "rarity": "uncommon",
+    "xpYield": 35,
+    "dustYield": 125,
+    "evolutionStage": 2,
+    "canEvolve": false,
+    "gen": 3
+  },
+  "ralts": {
+    "spawn": 28,
+    "catchRate": 0.3215686274509803,
+    "rarity": "common",
+    "xpYield": 20,
+    "dustYield": 50,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 3
+  },
+  "kirlia": {
+    "spawn": 28,
+    "catchRate": 0.27058823529411763,
+    "rarity": "common",
+    "xpYield": 20,
+    "dustYield": 50,
+    "evolutionStage": 2,
+    "canEvolve": true,
+    "gen": 3
+  },
+  "gardevoir": {
+    "spawn": 2,
+    "catchRate": 0.17647058823529413,
+    "rarity": "rare",
+    "xpYield": 60,
+    "dustYield": 250,
+    "evolutionStage": 3,
+    "canEvolve": false,
+    "gen": 3
+  },
+  "surskit": {
+    "spawn": 28,
+    "catchRate": 0.3843137254901961,
+    "rarity": "common",
+    "xpYield": 20,
+    "dustYield": 50,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 3
+  },
+  "masquerain": {
+    "spawn": 6,
+    "catchRate": 0.29411764705882354,
+    "rarity": "uncommon",
+    "xpYield": 35,
+    "dustYield": 125,
+    "evolutionStage": 2,
+    "canEvolve": false,
+    "gen": 3
+  },
+  "shroomish": {
+    "spawn": 28,
+    "catchRate": 0.35,
+    "rarity": "common",
+    "xpYield": 20,
+    "dustYield": 50,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 3
+  },
+  "breloom": {
+    "spawn": 6,
+    "catchRate": 0.2529411764705883,
+    "rarity": "uncommon",
+    "xpYield": 35,
+    "dustYield": 125,
+    "evolutionStage": 2,
+    "canEvolve": false,
+    "gen": 3
+  },
+  "slakoth": {
+    "spawn": 28,
+    "catchRate": 0.35,
+    "rarity": "common",
+    "xpYield": 20,
+    "dustYield": 50,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 3
+  },
+  "vigoroth": {
+    "spawn": 6,
+    "catchRate": 0.27058823529411763,
+    "rarity": "uncommon",
+    "xpYield": 35,
+    "dustYield": 125,
+    "evolutionStage": 2,
+    "canEvolve": true,
+    "gen": 3
+  },
+  "slaking": {
+    "spawn": 2,
+    "catchRate": 0.07,
+    "rarity": "rare",
+    "xpYield": 60,
+    "dustYield": 250,
+    "evolutionStage": 3,
+    "canEvolve": false,
+    "gen": 3
+  },
+  "nincada": {
+    "spawn": 28,
+    "catchRate": 0.35,
+    "rarity": "common",
+    "xpYield": 20,
+    "dustYield": 50,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 3
+  },
+  "ninjask": {
+    "spawn": 6,
+    "catchRate": 0.27058823529411763,
+    "rarity": "uncommon",
+    "xpYield": 35,
+    "dustYield": 125,
+    "evolutionStage": 2,
+    "canEvolve": false,
+    "gen": 3
+  },
+  "shedinja": {
+    "spawn": 28,
+    "catchRate": 0.29,
+    "rarity": "common",
+    "xpYield": 20,
+    "dustYield": 50,
+    "evolutionStage": 2,
+    "canEvolve": false,
+    "gen": 3
+  },
+  "whismur": {
+    "spawn": 28,
+    "catchRate": 0.3450980392156863,
+    "rarity": "common",
+    "xpYield": 20,
+    "dustYield": 50,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 3
+  },
+  "loudred": {
+    "spawn": 28,
+    "catchRate": 0.27058823529411763,
+    "rarity": "common",
+    "xpYield": 20,
+    "dustYield": 50,
+    "evolutionStage": 2,
+    "canEvolve": true,
+    "gen": 3
+  },
+  "exploud": {
+    "spawn": 6,
+    "catchRate": 0.18,
+    "rarity": "uncommon",
+    "xpYield": 35,
+    "dustYield": 125,
+    "evolutionStage": 3,
+    "canEvolve": false,
+    "gen": 3
+  },
+  "makuhita": {
+    "spawn": 28,
+    "catchRate": 0.35058823529411764,
+    "rarity": "common",
+    "xpYield": 20,
+    "dustYield": 50,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 3
+  },
+  "hariyama": {
+    "spawn": 6,
+    "catchRate": 0.1843137254901961,
+    "rarity": "uncommon",
+    "xpYield": 35,
+    "dustYield": 125,
+    "evolutionStage": 2,
+    "canEvolve": false,
+    "gen": 3
+  },
+  "azurill": {
+    "spawn": 28,
+    "catchRate": 0.3588235294117647,
+    "rarity": "common",
+    "xpYield": 20,
+    "dustYield": 50,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 3
+  },
+  "nosepass": {
+    "spawn": 28,
+    "catchRate": 0.35,
+    "rarity": "common",
+    "xpYield": 20,
+    "dustYield": 50,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 3
+  },
+  "skitty": {
+    "spawn": 28,
+    "catchRate": 0.35,
+    "rarity": "common",
+    "xpYield": 20,
+    "dustYield": 50,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 3
+  },
+  "delcatty": {
+    "spawn": 6,
+    "catchRate": 0.23529411764705882,
+    "rarity": "uncommon",
+    "xpYield": 35,
+    "dustYield": 125,
+    "evolutionStage": 2,
+    "canEvolve": false,
+    "gen": 3
+  },
+  "sableye": {
+    "spawn": 28,
+    "catchRate": 0.29,
+    "rarity": "common",
+    "xpYield": 20,
+    "dustYield": 50,
+    "evolutionStage": 1,
+    "canEvolve": false,
+    "gen": 3
+  },
+  "mawile": {
+    "spawn": 28,
+    "catchRate": 0.29,
+    "rarity": "common",
+    "xpYield": 20,
+    "dustYield": 50,
+    "evolutionStage": 1,
+    "canEvolve": false,
+    "gen": 3
+  },
+  "aron": {
+    "spawn": 28,
+    "catchRate": 0.35058823529411764,
+    "rarity": "common",
+    "xpYield": 20,
+    "dustYield": 50,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 3
+  },
+  "lairon": {
+    "spawn": 6,
+    "catchRate": 0.2529411764705883,
+    "rarity": "uncommon",
+    "xpYield": 35,
+    "dustYield": 125,
+    "evolutionStage": 2,
+    "canEvolve": true,
+    "gen": 3
+  },
+  "aggron": {
+    "spawn": 2,
+    "catchRate": 0.17647058823529413,
+    "rarity": "rare",
+    "xpYield": 60,
+    "dustYield": 250,
+    "evolutionStage": 3,
+    "canEvolve": false,
+    "gen": 3
+  },
+  "meditite": {
+    "spawn": 28,
+    "catchRate": 0.35058823529411764,
+    "rarity": "common",
+    "xpYield": 20,
+    "dustYield": 50,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 3
+  },
+  "medicham": {
+    "spawn": 6,
+    "catchRate": 0.2529411764705883,
+    "rarity": "uncommon",
+    "xpYield": 35,
+    "dustYield": 125,
+    "evolutionStage": 2,
+    "canEvolve": false,
+    "gen": 3
+  },
+  "electrike": {
+    "spawn": 28,
+    "catchRate": 0.37058823529411766,
+    "rarity": "common",
+    "xpYield": 20,
+    "dustYield": 50,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 3
+  },
+  "manectric": {
+    "spawn": 6,
+    "catchRate": 0.18,
+    "rarity": "uncommon",
+    "xpYield": 35,
+    "dustYield": 125,
+    "evolutionStage": 2,
+    "canEvolve": false,
+    "gen": 3
+  },
+  "plusle": {
+    "spawn": 6,
+    "catchRate": 0.3843137254901961,
+    "rarity": "uncommon",
+    "xpYield": 35,
+    "dustYield": 125,
+    "evolutionStage": 1,
+    "canEvolve": false,
+    "gen": 3
+  },
+  "minun": {
+    "spawn": 6,
+    "catchRate": 0.3843137254901961,
+    "rarity": "uncommon",
+    "xpYield": 35,
+    "dustYield": 125,
+    "evolutionStage": 1,
+    "canEvolve": false,
+    "gen": 3
+  },
+  "volbeat": {
+    "spawn": 6,
+    "catchRate": 0.3588235294117647,
+    "rarity": "uncommon",
+    "xpYield": 35,
+    "dustYield": 125,
+    "evolutionStage": 1,
+    "canEvolve": false,
+    "gen": 3
+  },
+  "illumise": {
+    "spawn": 6,
+    "catchRate": 0.3588235294117647,
+    "rarity": "uncommon",
+    "xpYield": 35,
+    "dustYield": 125,
+    "evolutionStage": 1,
+    "canEvolve": false,
+    "gen": 3
+  },
+  "roselia": {
+    "spawn": 6,
+    "catchRate": 0.2882352941176471,
+    "rarity": "uncommon",
+    "xpYield": 35,
+    "dustYield": 125,
+    "evolutionStage": 2,
+    "canEvolve": true,
+    "gen": 3
+  },
+  "gulpin": {
+    "spawn": 28,
+    "catchRate": 0.3823529411764706,
+    "rarity": "common",
+    "xpYield": 20,
+    "dustYield": 50,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 3
+  },
+  "swalot": {
+    "spawn": 6,
+    "catchRate": 0.29411764705882354,
+    "rarity": "uncommon",
+    "xpYield": 35,
+    "dustYield": 125,
+    "evolutionStage": 2,
+    "canEvolve": false,
+    "gen": 3
+  },
+  "carvanha": {
+    "spawn": 28,
+    "catchRate": 0.3823529411764706,
+    "rarity": "common",
+    "xpYield": 20,
+    "dustYield": 50,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 3
+  },
+  "sharpedo": {
+    "spawn": 6,
+    "catchRate": 0.23529411764705882,
+    "rarity": "uncommon",
+    "xpYield": 35,
+    "dustYield": 125,
+    "evolutionStage": 2,
+    "canEvolve": false,
+    "gen": 3
+  },
+  "wailmer": {
+    "spawn": 6,
+    "catchRate": 0.39019607843137255,
+    "rarity": "uncommon",
+    "xpYield": 35,
+    "dustYield": 125,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 3
+  },
+  "wailord": {
+    "spawn": 2,
+    "catchRate": 0.23529411764705882,
+    "rarity": "rare",
+    "xpYield": 60,
+    "dustYield": 250,
+    "evolutionStage": 2,
+    "canEvolve": false,
+    "gen": 3
+  },
+  "numel": {
+    "spawn": 28,
+    "catchRate": 0.35,
+    "rarity": "common",
+    "xpYield": 20,
+    "dustYield": 50,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 3
+  },
+  "camerupt": {
+    "spawn": 6,
+    "catchRate": 0.2882352941176471,
+    "rarity": "uncommon",
+    "xpYield": 35,
+    "dustYield": 125,
+    "evolutionStage": 2,
+    "canEvolve": false,
+    "gen": 3
+  },
+  "torkoal": {
+    "spawn": 6,
+    "catchRate": 0.2529411764705883,
+    "rarity": "uncommon",
+    "xpYield": 35,
+    "dustYield": 125,
+    "evolutionStage": 1,
+    "canEvolve": false,
+    "gen": 3
+  },
+  "spoink": {
+    "spawn": 28,
+    "catchRate": 0.35,
+    "rarity": "common",
+    "xpYield": 20,
+    "dustYield": 50,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 3
+  },
+  "grumpig": {
+    "spawn": 6,
+    "catchRate": 0.23529411764705882,
+    "rarity": "uncommon",
+    "xpYield": 35,
+    "dustYield": 125,
+    "evolutionStage": 2,
+    "canEvolve": false,
+    "gen": 3
+  },
+  "spinda": {
+    "spawn": 28,
+    "catchRate": 0.35,
+    "rarity": "common",
+    "xpYield": 20,
+    "dustYield": 50,
+    "evolutionStage": 1,
+    "canEvolve": false,
+    "gen": 3
+  },
+  "trapinch": {
+    "spawn": 28,
+    "catchRate": 0.35,
+    "rarity": "common",
+    "xpYield": 20,
+    "dustYield": 50,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 3
+  },
+  "vibrava": {
+    "spawn": 28,
+    "catchRate": 0.27058823529411763,
+    "rarity": "common",
+    "xpYield": 20,
+    "dustYield": 50,
+    "evolutionStage": 2,
+    "canEvolve": true,
+    "gen": 3
+  },
+  "flygon": {
+    "spawn": 2,
+    "catchRate": 0.17647058823529413,
+    "rarity": "rare",
+    "xpYield": 60,
+    "dustYield": 250,
+    "evolutionStage": 3,
+    "canEvolve": false,
+    "gen": 3
+  },
+  "cacnea": {
+    "spawn": 28,
+    "catchRate": 0.3450980392156863,
+    "rarity": "common",
+    "xpYield": 20,
+    "dustYield": 50,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 3
+  },
+  "cacturne": {
+    "spawn": 6,
+    "catchRate": 0.23529411764705882,
+    "rarity": "uncommon",
+    "xpYield": 35,
+    "dustYield": 125,
+    "evolutionStage": 2,
+    "canEvolve": false,
+    "gen": 3
+  },
+  "swablu": {
+    "spawn": 28,
+    "catchRate": 0.35,
+    "rarity": "common",
+    "xpYield": 20,
+    "dustYield": 50,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 3
+  },
+  "altaria": {
+    "spawn": 6,
+    "catchRate": 0.18,
+    "rarity": "uncommon",
+    "xpYield": 35,
+    "dustYield": 125,
+    "evolutionStage": 2,
+    "canEvolve": false,
+    "gen": 3
+  },
+  "zangoose": {
+    "spawn": 6,
+    "catchRate": 0.35294117647058826,
+    "rarity": "uncommon",
+    "xpYield": 35,
+    "dustYield": 125,
+    "evolutionStage": 1,
+    "canEvolve": false,
+    "gen": 3
+  },
+  "seviper": {
+    "spawn": 6,
+    "catchRate": 0.35294117647058826,
+    "rarity": "uncommon",
+    "xpYield": 35,
+    "dustYield": 125,
+    "evolutionStage": 1,
+    "canEvolve": false,
+    "gen": 3
+  },
+  "lunatone": {
+    "spawn": 6,
+    "catchRate": 0.18,
+    "rarity": "uncommon",
+    "xpYield": 35,
+    "dustYield": 125,
+    "evolutionStage": 1,
+    "canEvolve": false,
+    "gen": 3
+  },
+  "solrock": {
+    "spawn": 6,
+    "catchRate": 0.18,
+    "rarity": "uncommon",
+    "xpYield": 35,
+    "dustYield": 125,
+    "evolutionStage": 1,
+    "canEvolve": false,
+    "gen": 3
+  },
+  "barboach": {
+    "spawn": 28,
+    "catchRate": 0.3450980392156863,
+    "rarity": "common",
+    "xpYield": 20,
+    "dustYield": 50,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 3
+  },
+  "whiscash": {
+    "spawn": 6,
+    "catchRate": 0.29411764705882354,
+    "rarity": "uncommon",
+    "xpYield": 35,
+    "dustYield": 125,
+    "evolutionStage": 2,
+    "canEvolve": false,
+    "gen": 3
+  },
+  "corphish": {
+    "spawn": 28,
+    "catchRate": 0.3503921568627451,
+    "rarity": "common",
+    "xpYield": 20,
+    "dustYield": 50,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 3
+  },
+  "crawdaunt": {
+    "spawn": 6,
+    "catchRate": 0.2078431372549019,
+    "rarity": "uncommon",
+    "xpYield": 35,
+    "dustYield": 125,
+    "evolutionStage": 2,
+    "canEvolve": false,
+    "gen": 3
+  },
+  "baltoy": {
+    "spawn": 28,
+    "catchRate": 0.35,
+    "rarity": "common",
+    "xpYield": 20,
+    "dustYield": 50,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 3
+  },
+  "claydol": {
+    "spawn": 2,
+    "catchRate": 0.2529411764705883,
+    "rarity": "rare",
+    "xpYield": 60,
+    "dustYield": 250,
+    "evolutionStage": 2,
+    "canEvolve": false,
+    "gen": 3
+  },
+  "lileep": {
+    "spawn": 28,
+    "catchRate": 0.29,
+    "rarity": "common",
+    "xpYield": 20,
+    "dustYield": 50,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 3
+  },
+  "cradily": {
+    "spawn": 6,
+    "catchRate": 0.18,
+    "rarity": "uncommon",
+    "xpYield": 35,
+    "dustYield": 125,
+    "evolutionStage": 2,
+    "canEvolve": false,
+    "gen": 3
+  },
+  "anorith": {
+    "spawn": 28,
+    "catchRate": 0.29,
+    "rarity": "common",
+    "xpYield": 20,
+    "dustYield": 50,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 3
+  },
+  "armaldo": {
+    "spawn": 6,
+    "catchRate": 0.18,
+    "rarity": "uncommon",
+    "xpYield": 35,
+    "dustYield": 125,
+    "evolutionStage": 2,
+    "canEvolve": false,
+    "gen": 3
+  },
+  "feebas": {
+    "spawn": 28,
+    "catchRate": 0.35,
+    "rarity": "common",
+    "xpYield": 20,
+    "dustYield": 50,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 3
+  },
+  "milotic": {
+    "spawn": 2,
+    "catchRate": 0.23529411764705882,
+    "rarity": "rare",
+    "xpYield": 60,
+    "dustYield": 250,
+    "evolutionStage": 2,
+    "canEvolve": false,
+    "gen": 3
+  },
+  "castform": {
+    "spawn": 6,
+    "catchRate": 0.18,
+    "rarity": "uncommon",
+    "xpYield": 35,
+    "dustYield": 125,
+    "evolutionStage": 1,
+    "canEvolve": false,
+    "gen": 3
+  },
+  "kecleon": {
+    "spawn": 6,
+    "catchRate": 0.3843137254901961,
+    "rarity": "uncommon",
+    "xpYield": 35,
+    "dustYield": 125,
+    "evolutionStage": 1,
+    "canEvolve": false,
+    "gen": 3
+  },
+  "shuppet": {
+    "spawn": 28,
+    "catchRate": 0.3823529411764706,
+    "rarity": "common",
+    "xpYield": 20,
+    "dustYield": 50,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 3
+  },
+  "banette": {
+    "spawn": 6,
+    "catchRate": 0.18,
+    "rarity": "uncommon",
+    "xpYield": 35,
+    "dustYield": 125,
+    "evolutionStage": 2,
+    "canEvolve": false,
+    "gen": 3
+  },
+  "duskull": {
+    "spawn": 28,
+    "catchRate": 0.3450980392156863,
+    "rarity": "common",
+    "xpYield": 20,
+    "dustYield": 50,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 3
+  },
+  "dusclops": {
+    "spawn": 6,
+    "catchRate": 0.2529411764705883,
+    "rarity": "uncommon",
+    "xpYield": 35,
+    "dustYield": 125,
+    "evolutionStage": 2,
+    "canEvolve": true,
+    "gen": 3
+  },
+  "tropius": {
+    "spawn": 6,
+    "catchRate": 0.2843137254901961,
+    "rarity": "uncommon",
+    "xpYield": 35,
+    "dustYield": 125,
+    "evolutionStage": 1,
+    "canEvolve": false,
+    "gen": 3
+  },
+  "chimecho": {
+    "spawn": 6,
+    "catchRate": 0.18,
+    "rarity": "uncommon",
+    "xpYield": 35,
+    "dustYield": 125,
+    "evolutionStage": 2,
+    "canEvolve": false,
+    "gen": 3
+  },
+  "absol": {
+    "spawn": 6,
+    "catchRate": 0.18,
+    "rarity": "uncommon",
+    "xpYield": 35,
+    "dustYield": 125,
+    "evolutionStage": 1,
+    "canEvolve": false,
+    "gen": 3
+  },
+  "wynaut": {
+    "spawn": 28,
+    "catchRate": 0.39019607843137255,
+    "rarity": "common",
+    "xpYield": 20,
+    "dustYield": 50,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 3
+  },
+  "snorunt": {
+    "spawn": 28,
+    "catchRate": 0.3450980392156863,
+    "rarity": "common",
+    "xpYield": 20,
+    "dustYield": 50,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 3
+  },
+  "glalie": {
+    "spawn": 6,
+    "catchRate": 0.29411764705882354,
+    "rarity": "uncommon",
+    "xpYield": 35,
+    "dustYield": 125,
+    "evolutionStage": 2,
+    "canEvolve": false,
+    "gen": 3
+  },
+  "spheal": {
+    "spawn": 28,
+    "catchRate": 0.35,
+    "rarity": "common",
+    "xpYield": 20,
+    "dustYield": 50,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 3
+  },
+  "sealeo": {
+    "spawn": 6,
+    "catchRate": 0.27058823529411763,
+    "rarity": "uncommon",
+    "xpYield": 35,
+    "dustYield": 125,
+    "evolutionStage": 2,
+    "canEvolve": true,
+    "gen": 3
+  },
+  "walrein": {
+    "spawn": 2,
+    "catchRate": 0.17647058823529413,
+    "rarity": "rare",
+    "xpYield": 60,
+    "dustYield": 250,
+    "evolutionStage": 3,
+    "canEvolve": false,
+    "gen": 3
+  },
+  "clamperl": {
+    "spawn": 28,
+    "catchRate": 0.35,
+    "rarity": "common",
+    "xpYield": 20,
+    "dustYield": 50,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 3
+  },
+  "huntail": {
+    "spawn": 6,
+    "catchRate": 0.23529411764705882,
+    "rarity": "uncommon",
+    "xpYield": 35,
+    "dustYield": 125,
+    "evolutionStage": 2,
+    "canEvolve": false,
+    "gen": 3
+  },
+  "gorebyss": {
+    "spawn": 6,
+    "catchRate": 0.23529411764705882,
+    "rarity": "uncommon",
+    "xpYield": 35,
+    "dustYield": 125,
+    "evolutionStage": 2,
+    "canEvolve": false,
+    "gen": 3
+  },
+  "relicanth": {
+    "spawn": 6,
+    "catchRate": 0.18,
+    "rarity": "uncommon",
+    "xpYield": 35,
+    "dustYield": 125,
+    "evolutionStage": 1,
+    "canEvolve": false,
+    "gen": 3
+  },
+  "luvdisc": {
+    "spawn": 28,
+    "catchRate": 0.3823529411764706,
+    "rarity": "common",
+    "xpYield": 20,
+    "dustYield": 50,
+    "evolutionStage": 1,
+    "canEvolve": false,
+    "gen": 3
+  },
+  "bagon": {
+    "spawn": 28,
+    "catchRate": 0.29,
+    "rarity": "common",
+    "xpYield": 20,
+    "dustYield": 50,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 3
+  },
+  "shelgon": {
+    "spawn": 6,
+    "catchRate": 0.18,
+    "rarity": "uncommon",
+    "xpYield": 35,
+    "dustYield": 125,
+    "evolutionStage": 2,
+    "canEvolve": true,
+    "gen": 3
+  },
+  "salamence": {
+    "spawn": 2,
+    "catchRate": 0.07,
+    "rarity": "rare",
+    "xpYield": 60,
+    "dustYield": 250,
+    "evolutionStage": 3,
+    "canEvolve": false,
+    "gen": 3
+  },
+  "beldum": {
+    "spawn": 28,
+    "catchRate": 0.29,
+    "rarity": "common",
+    "xpYield": 20,
+    "dustYield": 50,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 3
+  },
+  "metang": {
+    "spawn": 6,
+    "catchRate": 0.18,
+    "rarity": "uncommon",
+    "xpYield": 35,
+    "dustYield": 125,
+    "evolutionStage": 2,
+    "canEvolve": true,
+    "gen": 3
+  },
+  "metagross": {
+    "spawn": 2,
+    "catchRate": 0.07,
+    "rarity": "rare",
+    "xpYield": 150,
+    "dustYield": 750,
+    "evolutionStage": 3,
+    "canEvolve": false,
+    "gen": 3
+  },
+  "regirock": {
+    "spawn": 1,
+    "catchRate": 0.02,
+    "rarity": "legendary",
+    "xpYield": 150,
+    "dustYield": 750,
+    "evolutionStage": 1,
+    "canEvolve": false,
+    "gen": 3
+  },
+  "regice": {
+    "spawn": 1,
+    "catchRate": 0.02,
+    "rarity": "legendary",
+    "xpYield": 150,
+    "dustYield": 750,
+    "evolutionStage": 1,
+    "canEvolve": false,
+    "gen": 3
+  },
+  "registeel": {
+    "spawn": 1,
+    "catchRate": 0.02,
+    "rarity": "legendary",
+    "xpYield": 150,
+    "dustYield": 750,
+    "evolutionStage": 1,
+    "canEvolve": false,
+    "gen": 3
+  },
+  "latias": {
+    "spawn": 1,
+    "catchRate": 0.011764705882352941,
+    "rarity": "legendary",
+    "xpYield": 150,
+    "dustYield": 750,
+    "evolutionStage": 1,
+    "canEvolve": false,
+    "gen": 3
+  },
+  "latios": {
+    "spawn": 1,
+    "catchRate": 0.011764705882352941,
+    "rarity": "legendary",
+    "xpYield": 150,
+    "dustYield": 750,
+    "evolutionStage": 1,
+    "canEvolve": false,
+    "gen": 3
+  },
+  "kyogre": {
+    "spawn": 1,
+    "catchRate": 0.011764705882352941,
+    "rarity": "legendary",
+    "xpYield": 150,
+    "dustYield": 750,
+    "evolutionStage": 1,
+    "canEvolve": false,
+    "gen": 3
+  },
+  "groudon": {
+    "spawn": 1,
+    "catchRate": 0.011764705882352941,
+    "rarity": "legendary",
+    "xpYield": 150,
+    "dustYield": 750,
+    "evolutionStage": 1,
+    "canEvolve": false,
+    "gen": 3
+  },
+  "rayquaza": {
+    "spawn": 1,
+    "catchRate": 0.01764705882352941,
+    "rarity": "legendary",
+    "xpYield": 150,
+    "dustYield": 750,
+    "evolutionStage": 1,
+    "canEvolve": false,
+    "gen": 3
+  },
+  "jirachi": {
+    "spawn": 1,
+    "catchRate": 0.011764705882352941,
+    "rarity": "legendary",
+    "xpYield": 150,
+    "dustYield": 750,
+    "evolutionStage": 1,
+    "canEvolve": false,
+    "gen": 3
+  },
+  "deoxys": {
+    "spawn": 1,
+    "catchRate": 0.011764705882352941,
+    "rarity": "legendary",
+    "xpYield": 150,
+    "dustYield": 750,
+    "evolutionStage": 1,
+    "canEvolve": false,
+    "gen": 3
+  },
+  "turtwig": {
+    "spawn": 28,
+    "catchRate": 0.29,
+    "rarity": "common",
+    "xpYield": 20,
+    "dustYield": 50,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 4
+  },
+  "grotle": {
+    "spawn": 6,
+    "catchRate": 0.18,
+    "rarity": "uncommon",
+    "xpYield": 35,
+    "dustYield": 125,
+    "evolutionStage": 2,
+    "canEvolve": true,
+    "gen": 4
+  },
+  "torterra": {
+    "spawn": 2,
+    "catchRate": 0.07647058823529413,
+    "rarity": "rare",
+    "xpYield": 60,
+    "dustYield": 250,
+    "evolutionStage": 3,
+    "canEvolve": false,
+    "gen": 4
+  },
+  "chimchar": {
+    "spawn": 28,
+    "catchRate": 0.29,
+    "rarity": "common",
+    "xpYield": 20,
+    "dustYield": 50,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 4
+  },
+  "monferno": {
+    "spawn": 6,
+    "catchRate": 0.18,
+    "rarity": "uncommon",
+    "xpYield": 35,
+    "dustYield": 125,
+    "evolutionStage": 2,
+    "canEvolve": true,
+    "gen": 4
+  },
+  "infernape": {
+    "spawn": 2,
+    "catchRate": 0.07647058823529413,
+    "rarity": "rare",
+    "xpYield": 60,
+    "dustYield": 250,
+    "evolutionStage": 3,
+    "canEvolve": false,
+    "gen": 4
+  },
+  "piplup": {
+    "spawn": 28,
+    "catchRate": 0.29,
+    "rarity": "common",
+    "xpYield": 20,
+    "dustYield": 50,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 4
+  },
+  "prinplup": {
+    "spawn": 6,
+    "catchRate": 0.18,
+    "rarity": "uncommon",
+    "xpYield": 35,
+    "dustYield": 125,
+    "evolutionStage": 2,
+    "canEvolve": true,
+    "gen": 4
+  },
+  "empoleon": {
+    "spawn": 2,
+    "catchRate": 0.07647058823529413,
+    "rarity": "rare",
+    "xpYield": 60,
+    "dustYield": 250,
+    "evolutionStage": 3,
+    "canEvolve": false,
+    "gen": 4
+  },
+  "starly": {
+    "spawn": 28,
+    "catchRate": 0.5,
+    "rarity": "common",
+    "xpYield": 20,
+    "dustYield": 50,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 4
+  },
+  "staravia": {
+    "spawn": 28,
+    "catchRate": 0.47058823529411764,
+    "rarity": "common",
+    "xpYield": 20,
+    "dustYield": 50,
+    "evolutionStage": 2,
+    "canEvolve": true,
+    "gen": 4
+  },
+  "staraptor": {
+    "spawn": 6,
+    "catchRate": 0.18,
+    "rarity": "uncommon",
+    "xpYield": 35,
+    "dustYield": 125,
+    "evolutionStage": 3,
+    "canEvolve": false,
+    "gen": 4
+  },
+  "bidoof": {
+    "spawn": 28,
+    "catchRate": 0.5,
+    "rarity": "common",
+    "xpYield": 20,
+    "dustYield": 50,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 4
+  },
+  "bibarel": {
+    "spawn": 6,
+    "catchRate": 0.2980392156862745,
+    "rarity": "uncommon",
+    "xpYield": 35,
+    "dustYield": 125,
+    "evolutionStage": 2,
+    "canEvolve": false,
+    "gen": 4
+  },
+  "kricketot": {
+    "spawn": 28,
+    "catchRate": 0.5,
+    "rarity": "common",
+    "xpYield": 20,
+    "dustYield": 50,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 4
+  },
+  "kricketune": {
+    "spawn": 28,
+    "catchRate": 0.29,
+    "rarity": "common",
+    "xpYield": 20,
+    "dustYield": 50,
+    "evolutionStage": 2,
+    "canEvolve": false,
+    "gen": 4
+  },
+  "shinx": {
+    "spawn": 28,
+    "catchRate": 0.49215686274509803,
+    "rarity": "common",
+    "xpYield": 20,
+    "dustYield": 50,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 4
+  },
+  "luxio": {
+    "spawn": 28,
+    "catchRate": 0.47058823529411764,
+    "rarity": "common",
+    "xpYield": 20,
+    "dustYield": 50,
+    "evolutionStage": 2,
+    "canEvolve": true,
+    "gen": 4
+  },
+  "luxray": {
+    "spawn": 2,
+    "catchRate": 0.07647058823529413,
+    "rarity": "rare",
+    "xpYield": 60,
+    "dustYield": 250,
+    "evolutionStage": 3,
+    "canEvolve": false,
+    "gen": 4
+  },
+  "budew": {
+    "spawn": 28,
+    "catchRate": 0.5,
+    "rarity": "common",
+    "xpYield": 20,
+    "dustYield": 50,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 4
+  },
+  "roserade": {
+    "spawn": 2,
+    "catchRate": 0.09411764705882354,
+    "rarity": "rare",
+    "xpYield": 60,
+    "dustYield": 250,
+    "evolutionStage": 3,
+    "canEvolve": false,
+    "gen": 4
+  },
+  "cranidos": {
+    "spawn": 28,
+    "catchRate": 0.29,
+    "rarity": "common",
+    "xpYield": 20,
+    "dustYield": 50,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 4
+  },
+  "rampardos": {
+    "spawn": 6,
+    "catchRate": 0.18,
+    "rarity": "uncommon",
+    "xpYield": 35,
+    "dustYield": 125,
+    "evolutionStage": 2,
+    "canEvolve": false,
+    "gen": 4
+  },
+  "shieldon": {
+    "spawn": 28,
+    "catchRate": 0.29,
+    "rarity": "common",
+    "xpYield": 20,
+    "dustYield": 50,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 4
+  },
+  "bastiodon": {
+    "spawn": 6,
+    "catchRate": 0.18,
+    "rarity": "uncommon",
+    "xpYield": 35,
+    "dustYield": 125,
+    "evolutionStage": 2,
+    "canEvolve": false,
+    "gen": 4
+  },
+  "burmy": {
+    "spawn": 28,
+    "catchRate": 0.47058823529411764,
+    "rarity": "common",
+    "xpYield": 20,
+    "dustYield": 50,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 4
+  },
+  "wormadam": {
+    "spawn": 6,
+    "catchRate": 0.18,
+    "rarity": "uncommon",
+    "xpYield": 35,
+    "dustYield": 125,
+    "evolutionStage": 2,
+    "canEvolve": false,
+    "gen": 4
+  },
+  "mothim": {
+    "spawn": 6,
+    "catchRate": 0.18,
+    "rarity": "uncommon",
+    "xpYield": 35,
+    "dustYield": 125,
+    "evolutionStage": 2,
+    "canEvolve": false,
+    "gen": 4
+  },
+  "combee": {
+    "spawn": 28,
+    "catchRate": 0.47058823529411764,
+    "rarity": "common",
+    "xpYield": 20,
+    "dustYield": 50,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 4
+  },
+  "vespiquen": {
+    "spawn": 6,
+    "catchRate": 0.18,
+    "rarity": "uncommon",
+    "xpYield": 35,
+    "dustYield": 125,
+    "evolutionStage": 2,
+    "canEvolve": false,
+    "gen": 4
+  },
+  "pachirisu": {
+    "spawn": 6,
+    "catchRate": 0.2843137254901961,
+    "rarity": "uncommon",
+    "xpYield": 35,
+    "dustYield": 125,
+    "evolutionStage": 1,
+    "canEvolve": false,
+    "gen": 4
+  },
+  "buizel": {
+    "spawn": 28,
+    "catchRate": 0.4450980392156863,
+    "rarity": "common",
+    "xpYield": 20,
+    "dustYield": 50,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 4
+  },
+  "floatzel": {
+    "spawn": 6,
+    "catchRate": 0.29411764705882354,
+    "rarity": "uncommon",
+    "xpYield": 35,
+    "dustYield": 125,
+    "evolutionStage": 2,
+    "canEvolve": false,
+    "gen": 4
+  },
+  "cherubi": {
+    "spawn": 28,
+    "catchRate": 0.4450980392156863,
+    "rarity": "common",
+    "xpYield": 20,
+    "dustYield": 50,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 4
+  },
+  "cherrim": {
+    "spawn": 6,
+    "catchRate": 0.29411764705882354,
+    "rarity": "uncommon",
+    "xpYield": 35,
+    "dustYield": 125,
+    "evolutionStage": 2,
+    "canEvolve": false,
+    "gen": 4
+  },
+  "shellos": {
+    "spawn": 28,
+    "catchRate": 0.4450980392156863,
+    "rarity": "common",
+    "xpYield": 20,
+    "dustYield": 50,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 4
+  },
+  "gastrodon": {
+    "spawn": 6,
+    "catchRate": 0.29411764705882354,
+    "rarity": "uncommon",
+    "xpYield": 35,
+    "dustYield": 125,
+    "evolutionStage": 2,
+    "canEvolve": false,
+    "gen": 4
+  },
+  "ambipom": {
+    "spawn": 6,
+    "catchRate": 0.18,
+    "rarity": "uncommon",
+    "xpYield": 35,
+    "dustYield": 125,
+    "evolutionStage": 2,
+    "canEvolve": false,
+    "gen": 4
+  },
+  "drifloon": {
+    "spawn": 28,
+    "catchRate": 0.49019607843137253,
+    "rarity": "common",
+    "xpYield": 20,
+    "dustYield": 50,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 4
+  },
+  "drifblim": {
+    "spawn": 6,
+    "catchRate": 0.23529411764705882,
+    "rarity": "uncommon",
+    "xpYield": 35,
+    "dustYield": 125,
+    "evolutionStage": 2,
+    "canEvolve": false,
+    "gen": 4
+  },
+  "buneary": {
+    "spawn": 28,
+    "catchRate": 0.4450980392156863,
+    "rarity": "common",
+    "xpYield": 20,
+    "dustYield": 50,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 4
+  },
+  "lopunny": {
+    "spawn": 6,
+    "catchRate": 0.23529411764705882,
+    "rarity": "uncommon",
+    "xpYield": 35,
+    "dustYield": 125,
+    "evolutionStage": 2,
+    "canEvolve": false,
+    "gen": 4
+  },
+  "mismagius": {
+    "spawn": 6,
+    "catchRate": 0.18,
+    "rarity": "uncommon",
+    "xpYield": 35,
+    "dustYield": 125,
+    "evolutionStage": 2,
+    "canEvolve": false,
+    "gen": 4
+  },
+  "honchkrow": {
+    "spawn": 2,
+    "catchRate": 0.11764705882352941,
+    "rarity": "rare",
+    "xpYield": 60,
+    "dustYield": 250,
+    "evolutionStage": 2,
+    "canEvolve": false,
+    "gen": 4
+  },
+  "glameow": {
+    "spawn": 28,
+    "catchRate": 0.4450980392156863,
+    "rarity": "common",
+    "xpYield": 20,
+    "dustYield": 50,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 4
+  },
+  "purugly": {
+    "spawn": 6,
+    "catchRate": 0.29411764705882354,
+    "rarity": "uncommon",
+    "xpYield": 35,
+    "dustYield": 125,
+    "evolutionStage": 2,
+    "canEvolve": false,
+    "gen": 4
+  },
+  "chingling": {
+    "spawn": 28,
+    "catchRate": 0.47058823529411764,
+    "rarity": "common",
+    "xpYield": 20,
+    "dustYield": 50,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 4
+  },
+  "stunky": {
+    "spawn": 28,
+    "catchRate": 0.4823529411764706,
+    "rarity": "common",
+    "xpYield": 20,
+    "dustYield": 50,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 4
+  },
+  "skuntank": {
+    "spawn": 6,
+    "catchRate": 0.23529411764705882,
+    "rarity": "uncommon",
+    "xpYield": 35,
+    "dustYield": 125,
+    "evolutionStage": 2,
+    "canEvolve": false,
+    "gen": 4
+  },
+  "bronzor": {
+    "spawn": 28,
+    "catchRate": 0.5,
+    "rarity": "common",
+    "xpYield": 20,
+    "dustYield": 50,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 4
+  },
+  "bronzong": {
+    "spawn": 2,
+    "catchRate": 0.15294117647058826,
+    "rarity": "rare",
+    "xpYield": 60,
+    "dustYield": 250,
+    "evolutionStage": 2,
+    "canEvolve": false,
+    "gen": 4
+  },
+  "bonsly": {
+    "spawn": 28,
+    "catchRate": 0.5,
+    "rarity": "common",
+    "xpYield": 20,
+    "dustYield": 50,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 4
+  },
+  "mime-jr": {
+    "spawn": 28,
+    "catchRate": 0.5686274509803921,
+    "rarity": "common",
+    "xpYield": 20,
+    "dustYield": 50,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 4
+  },
+  "happiny": {
+    "spawn": 28,
+    "catchRate": 0.5098039215686274,
+    "rarity": "common",
+    "xpYield": 20,
+    "dustYield": 50,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 4
+  },
+  "chatot": {
+    "spawn": 6,
+    "catchRate": 0.18,
+    "rarity": "uncommon",
+    "xpYield": 35,
+    "dustYield": 125,
+    "evolutionStage": 1,
+    "canEvolve": false,
+    "gen": 4
+  },
+  "spiritomb": {
+    "spawn": 6,
+    "catchRate": 0.39215686274509803,
+    "rarity": "uncommon",
+    "xpYield": 35,
+    "dustYield": 125,
+    "evolutionStage": 1,
+    "canEvolve": false,
+    "gen": 4
+  },
+  "gible": {
+    "spawn": 28,
+    "catchRate": 0.29,
+    "rarity": "common",
+    "xpYield": 20,
+    "dustYield": 50,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 4
+  },
+  "gabite": {
+    "spawn": 6,
+    "catchRate": 0.18,
+    "rarity": "uncommon",
+    "xpYield": 35,
+    "dustYield": 125,
+    "evolutionStage": 2,
+    "canEvolve": true,
+    "gen": 4
+  },
+  "garchomp": {
+    "spawn": 2,
+    "catchRate": 0.07647058823529413,
+    "rarity": "rare",
+    "xpYield": 60,
+    "dustYield": 250,
+    "evolutionStage": 3,
+    "canEvolve": false,
+    "gen": 4
+  },
+  "munchlax": {
+    "spawn": 28,
+    "catchRate": 0.29,
+    "rarity": "common",
+    "xpYield": 20,
+    "dustYield": 50,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 4
+  },
+  "riolu": {
+    "spawn": 28,
+    "catchRate": 0.29411764705882354,
+    "rarity": "common",
+    "xpYield": 20,
+    "dustYield": 50,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 4
+  },
+  "lucario": {
+    "spawn": 2,
+    "catchRate": 0.07647058823529413,
+    "rarity": "rare",
+    "xpYield": 60,
+    "dustYield": 250,
+    "evolutionStage": 2,
+    "canEvolve": false,
+    "gen": 4
+  },
+  "hippopotas": {
+    "spawn": 28,
+    "catchRate": 0.5490196078431373,
+    "rarity": "common",
+    "xpYield": 20,
+    "dustYield": 50,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 4
+  },
+  "hippowdon": {
+    "spawn": 2,
+    "catchRate": 0.13529411764705882,
+    "rarity": "rare",
+    "xpYield": 60,
+    "dustYield": 250,
+    "evolutionStage": 2,
+    "canEvolve": false,
+    "gen": 4
+  },
+  "skorupi": {
+    "spawn": 28,
+    "catchRate": 0.47058823529411764,
+    "rarity": "common",
+    "xpYield": 20,
+    "dustYield": 50,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 4
+  },
+  "drapion": {
+    "spawn": 2,
+    "catchRate": 0.07647058823529413,
+    "rarity": "rare",
+    "xpYield": 60,
+    "dustYield": 250,
+    "evolutionStage": 2,
+    "canEvolve": false,
+    "gen": 4
+  },
+  "croagunk": {
+    "spawn": 28,
+    "catchRate": 0.5490196078431373,
+    "rarity": "common",
+    "xpYield": 20,
+    "dustYield": 50,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 4
+  },
+  "toxicroak": {
+    "spawn": 6,
+    "catchRate": 0.29411764705882354,
+    "rarity": "uncommon",
+    "xpYield": 35,
+    "dustYield": 125,
+    "evolutionStage": 2,
+    "canEvolve": false,
+    "gen": 4
+  },
+  "carnivine": {
+    "spawn": 6,
+    "catchRate": 0.4843137254901961,
+    "rarity": "uncommon",
+    "xpYield": 35,
+    "dustYield": 125,
+    "evolutionStage": 1,
+    "canEvolve": false,
+    "gen": 4
+  },
+  "finneon": {
+    "spawn": 28,
+    "catchRate": 0.4450980392156863,
+    "rarity": "common",
+    "xpYield": 20,
+    "dustYield": 50,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 4
+  },
+  "lumineon": {
+    "spawn": 6,
+    "catchRate": 0.29411764705882354,
+    "rarity": "uncommon",
+    "xpYield": 35,
+    "dustYield": 125,
+    "evolutionStage": 2,
+    "canEvolve": false,
+    "gen": 4
+  },
+  "mantyke": {
+    "spawn": 28,
+    "catchRate": 0.29,
+    "rarity": "common",
+    "xpYield": 20,
+    "dustYield": 50,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 4
+  },
+  "snover": {
+    "spawn": 28,
+    "catchRate": 0.47058823529411764,
+    "rarity": "common",
+    "xpYield": 20,
+    "dustYield": 50,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 4
+  },
+  "abomasnow": {
+    "spawn": 6,
+    "catchRate": 0.23529411764705882,
+    "rarity": "uncommon",
+    "xpYield": 35,
+    "dustYield": 125,
+    "evolutionStage": 2,
+    "canEvolve": false,
+    "gen": 4
+  },
+  "weavile": {
+    "spawn": 2,
+    "catchRate": 0.07647058823529413,
+    "rarity": "rare",
+    "xpYield": 60,
+    "dustYield": 250,
+    "evolutionStage": 2,
+    "canEvolve": false,
+    "gen": 4
+  },
+  "magnezone": {
+    "spawn": 2,
+    "catchRate": 0.11764705882352941,
+    "rarity": "rare",
+    "xpYield": 60,
+    "dustYield": 250,
+    "evolutionStage": 3,
+    "canEvolve": false,
+    "gen": 4
+  },
+  "lickilicky": {
+    "spawn": 2,
+    "catchRate": 0.11764705882352941,
+    "rarity": "rare",
+    "xpYield": 60,
+    "dustYield": 250,
+    "evolutionStage": 2,
+    "canEvolve": false,
+    "gen": 4
+  },
+  "rhyperior": {
+    "spawn": 2,
+    "catchRate": 0.11764705882352941,
+    "rarity": "rare",
+    "xpYield": 60,
+    "dustYield": 250,
+    "evolutionStage": 3,
+    "canEvolve": false,
+    "gen": 4
+  },
+  "tangrowth": {
+    "spawn": 2,
+    "catchRate": 0.11764705882352941,
+    "rarity": "rare",
+    "xpYield": 60,
+    "dustYield": 250,
+    "evolutionStage": 2,
+    "canEvolve": false,
+    "gen": 4
+  },
+  "electivire": {
+    "spawn": 2,
+    "catchRate": 0.11764705882352941,
+    "rarity": "rare",
+    "xpYield": 60,
+    "dustYield": 250,
+    "evolutionStage": 3,
+    "canEvolve": false,
+    "gen": 4
+  },
+  "magmortar": {
+    "spawn": 2,
+    "catchRate": 0.11764705882352941,
+    "rarity": "rare",
+    "xpYield": 60,
+    "dustYield": 250,
+    "evolutionStage": 3,
+    "canEvolve": false,
+    "gen": 4
+  },
+  "togekiss": {
+    "spawn": 2,
+    "catchRate": 0.11764705882352941,
+    "rarity": "rare",
+    "xpYield": 60,
+    "dustYield": 250,
+    "evolutionStage": 3,
+    "canEvolve": false,
+    "gen": 4
+  },
+  "yanmega": {
+    "spawn": 2,
+    "catchRate": 0.11764705882352941,
+    "rarity": "rare",
+    "xpYield": 60,
+    "dustYield": 250,
+    "evolutionStage": 2,
+    "canEvolve": false,
+    "gen": 4
+  },
+  "leafeon": {
+    "spawn": 2,
+    "catchRate": 0.07647058823529413,
+    "rarity": "rare",
+    "xpYield": 60,
+    "dustYield": 250,
+    "evolutionStage": 2,
+    "canEvolve": false,
+    "gen": 4
+  },
+  "glaceon": {
+    "spawn": 2,
+    "catchRate": 0.07647058823529413,
+    "rarity": "rare",
+    "xpYield": 60,
+    "dustYield": 250,
+    "evolutionStage": 2,
+    "canEvolve": false,
+    "gen": 4
+  },
+  "gliscor": {
+    "spawn": 2,
+    "catchRate": 0.11764705882352941,
+    "rarity": "rare",
+    "xpYield": 60,
+    "dustYield": 250,
+    "evolutionStage": 2,
+    "canEvolve": false,
+    "gen": 4
+  },
+  "mamoswine": {
+    "spawn": 2,
+    "catchRate": 0.09607843137254902,
+    "rarity": "rare",
+    "xpYield": 60,
+    "dustYield": 250,
+    "evolutionStage": 3,
+    "canEvolve": false,
+    "gen": 4
+  },
+  "porygon-z": {
+    "spawn": 2,
+    "catchRate": 0.11764705882352941,
+    "rarity": "rare",
+    "xpYield": 60,
+    "dustYield": 250,
+    "evolutionStage": 3,
+    "canEvolve": false,
+    "gen": 4
+  },
+  "gallade": {
+    "spawn": 2,
+    "catchRate": 0.07647058823529413,
+    "rarity": "rare",
+    "xpYield": 60,
+    "dustYield": 250,
+    "evolutionStage": 3,
+    "canEvolve": false,
+    "gen": 4
+  },
+  "probopass": {
+    "spawn": 2,
+    "catchRate": 0.13529411764705882,
+    "rarity": "rare",
+    "xpYield": 60,
+    "dustYield": 250,
+    "evolutionStage": 2,
+    "canEvolve": false,
+    "gen": 4
+  },
+  "dusknoir": {
+    "spawn": 2,
+    "catchRate": 0.07647058823529413,
+    "rarity": "rare",
+    "xpYield": 60,
+    "dustYield": 250,
+    "evolutionStage": 3,
+    "canEvolve": false,
+    "gen": 4
+  },
+  "froslass": {
+    "spawn": 6,
+    "catchRate": 0.29411764705882354,
+    "rarity": "uncommon",
+    "xpYield": 35,
+    "dustYield": 125,
+    "evolutionStage": 2,
+    "canEvolve": false,
+    "gen": 4
+  },
+  "rotom": {
+    "spawn": 6,
+    "catchRate": 0.18,
+    "rarity": "uncommon",
+    "xpYield": 35,
+    "dustYield": 125,
+    "evolutionStage": 1,
+    "canEvolve": false,
+    "gen": 4
+  },
+  "uxie": {
+    "spawn": 1,
+    "catchRate": 0.017647058823529413,
+    "rarity": "legendary",
+    "xpYield": 150,
+    "dustYield": 750,
+    "evolutionStage": 1,
+    "canEvolve": false,
+    "gen": 4
+  },
+  "mesprit": {
+    "spawn": 1,
+    "catchRate": 0.011764705882352941,
+    "rarity": "legendary",
+    "xpYield": 150,
+    "dustYield": 750,
+    "evolutionStage": 1,
+    "canEvolve": false,
+    "gen": 4
+  },
+  "azelf": {
+    "spawn": 1,
+    "catchRate": 0.01,
+    "rarity": "legendary",
+    "xpYield": 150,
+    "dustYield": 750,
+    "evolutionStage": 1,
+    "canEvolve": false,
+    "gen": 4
+  },
+  "dialga": {
+    "spawn": 1,
+    "catchRate": 0.011764705882352941,
+    "rarity": "legendary",
+    "xpYield": 150,
+    "dustYield": 750,
+    "evolutionStage": 1,
+    "canEvolve": false,
+    "gen": 4
+  },
+  "palkia": {
+    "spawn": 1,
+    "catchRate": 0.011764705882352941,
+    "rarity": "legendary",
+    "xpYield": 150,
+    "dustYield": 750,
+    "evolutionStage": 1,
+    "canEvolve": false,
+    "gen": 4
+  },
+  "heatran": {
+    "spawn": 1,
+    "catchRate": 0.011764705882352941,
+    "rarity": "legendary",
+    "xpYield": 150,
+    "dustYield": 750,
+    "evolutionStage": 1,
+    "canEvolve": false,
+    "gen": 4
+  },
+  "regigigas": {
+    "spawn": 1,
+    "catchRate": 0.011764705882352941,
+    "rarity": "legendary",
+    "xpYield": 150,
+    "dustYield": 750,
+    "evolutionStage": 1,
+    "canEvolve": false,
+    "gen": 4
+  },
+  "giratina": {
+    "spawn": 1,
+    "catchRate": 0.011764705882352941,
+    "rarity": "legendary",
+    "xpYield": 150,
+    "dustYield": 750,
+    "evolutionStage": 1,
+    "canEvolve": false,
+    "gen": 4
+  },
+  "cresselia": {
+    "spawn": 1,
+    "catchRate": 0.011764705882352941,
+    "rarity": "legendary",
+    "xpYield": 150,
+    "dustYield": 750,
+    "evolutionStage": 1,
+    "canEvolve": false,
+    "gen": 4
+  },
+  "phione": {
+    "spawn": 1,
+    "catchRate": 0.018,
+    "rarity": "legendary",
+    "xpYield": 150,
+    "dustYield": 750,
+    "evolutionStage": 1,
+    "canEvolve": true,
+    "gen": 4
+  },
+  "manaphy": {
+    "spawn": 1,
+    "catchRate": 0.011764705882352941,
+    "rarity": "legendary",
+    "xpYield": 150,
+    "dustYield": 750,
+    "evolutionStage": 2,
+    "canEvolve": false,
+    "gen": 4
+  },
+  "darkrai": {
+    "spawn": 1,
+    "catchRate": 0.011764705882352941,
+    "rarity": "legendary",
+    "xpYield": 150,
+    "dustYield": 750,
+    "evolutionStage": 1,
+    "canEvolve": false,
+    "gen": 4
+  },
+  "shaymin-land": {
+    "spawn": 1,
+    "catchRate": 0.017647058823529413,
+    "rarity": "legendary",
+    "xpYield": 150,
+    "dustYield": 750,
+    "evolutionStage": 1,
+    "canEvolve": false,
+    "gen": 4
+  },
+  "arceus": {
+    "spawn": 1,
+    "catchRate": 0.011764705882352941,
+    "rarity": "legendary",
+    "xpYield": 150,
+    "dustYield": 750,
+    "evolutionStage": 1,
+    "canEvolve": false,
+    "gen": 4
+  }
+}

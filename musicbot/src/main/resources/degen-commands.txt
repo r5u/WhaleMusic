@@ -1,0 +1,91 @@
+📈 /auracheck - Check aura for a user
+📈 /auraleaderboard - View the aura leaderboard
+🛡️ /bail - Bail a jailed user out of jail
+💰 /balance - Checks your current point balance
+⚔️ /battledexpreset - Set your BattleDex preset by selecting Pokémon like in pokebattle
+💰 /beg - Beg for coins and see what happens!
+📋 /betinfo - Shows detailed information and statistics about a specific bet
+🃏 /blackjack - Play blackjack
+✨ /buffs - View your active buffs and their remaining time
+⚔️ /cancelbattle - Cancel your active battle if it's stuck
+🧾 /cancelbet - Cancels a bet before any bets are placed
+🛠️ /changerole - Change a user's role
+🧾 /closebet - Closes betting for a specific event
+🎲 /coinflip - Flip a coin and bet on the outcome
+🃏 /collection - View your fishing and hunting collection!
+🃏 /collection-leaderboard - View the top collectors by collection value!
+🃏 /collection-list - View all possible fish and animal names in the collection
+📅 /cooldowns - View all your current cooldowns
+🧾 /createbet - Creates a new betting event
+🛡️ /crime - Attempt a crime for a chance to win or lose points, or get jailed!
+📦 /cs2cases - View available CS2 cases and their contents!
+🔫 /cs2inventory - View your CS2 skin collection and inventory!
+🔫 /cs2leaderboard - View the CS2 case opening leaderboard!
+📦 /cs2open - Open a CS2 case and get a random skin!
+🔫 /cs2sell - Sell a CS2 skin from your inventory
+🔫 /cs2stats - View your CS2 case opening statistics and performance!
+🔄 /cs2trade - Trade a CS2 skin with another user
+🔫 /cs2view - View detailed information about CS2 skins with search and pagination!
+💰 /daily - Claim your daily point bonus
+🎲 /dice - Roll dice and bet on the outcome
+📅 /doubleweekend - Manage double weekend events
+⚔️ /duel - Challenge another user to a duel for points!
+🧾 /editbet - Edits a bet's description or options before any bets are placed
+🧾 /extendbet - Extends the duration of an open bet
+🎣 /fish - Go fishing for a chance to catch something valuable!
+💰 /gift - Gift points to another user
+🎁 /giveaway - Start a giveaway for points!
+🎁 /giveawaypokemon - Start a giveaway for a Pokémon from your collection!
+🎁 /giveawaypokemonleaderboard - View the Pokémon giveaway leaderboard
+🎟️ /golden-tickets - Check how many golden tickets you have!
+❓ /help - Shows a help menu with all available commands
+🏹 /hunt - Go hunting for a chance to catch a rare animal!
+🎰 /jackpot - View or contribute to the jackpot
+🛡️ /jailed - View all currently jailed users in this server
+📈 /leaderboard - Shows the top users by balance
+📋 /listbets - Lists all currently open betting events
+🐾 /meowbark - Perform a meow or bark to earn points
+🎰 /mysterybox - Open a mystery box for random rewards!
+🧾 /placebet - Places a bet on an active event
+⚔️ /pokebattle - Challenge another user to a Pokémon battle!
+⚔️ /pokebattlestats - View Pokémon battle statistics for a user
+🔴 /pokecatch - Try to catch the wild Pokémon in this channel!
+🔴 /pokecollection - View your Pokémon TCG card collection!
+🔴 /pokedex - View your collected Pokémon!
+🔴 /pokeevolve - Evolve a Pokémon using the Evolver's Ring and duplicates!
+🔴 /pokeevolveform - Evolve a Pokémon to any special form using Form Stones!
+🔴 /pokemonshow - Show off one of your Pokémon publicly!
+📦 /pokeopen - Open your purchased Pokémon TCG card packs!
+📦 /pokepacks - Browse available Pokémon TCG card packs!
+🗺️ /pokequests - View your daily and weekly Pokémon quest progress and claim rewards!
+🔴 /pokesellduplicates - Sell your duplicate Pokémon for stardust!
+🛍️ /pokeshop - View and buy special progression items!
+🛍️ /pokeshopdaily - View today's rotating Previous Generation Pokémon shop featuring Pokémon from different rarities!
+🔴 /pokespawn - Admin: Spawn a wild current generation Pokémon in this channel!
+🔴 /pokestats - View detailed EV stats for a specific Pokemon
+🔴 /pokesteal - Superadmin: Steal a random common Pokémon from a user
+🔄 /poketrade - Trade Pokémon with another user!
+📈 /profile - View your detailed profile, including balance, betting, and gambling stats
+❓ /question - Answer a question about a cat for a chance to win or lose points!
+🎟️ /redeem-golden-ticket - Redeem a golden ticket for 10% of the jackpot pool
+🧾 /refund - Refund all bets for a specific bet
+🛠️ /resetcooldowns - Reset all cooldowns
+🧾 /resolvebet - Resolves a betting event and distributes winnings
+🎲 /roulette - Play roulette
+💰 /sell - Sell items from your collection for points!
+🛠️ /setlogchannel - Set the channel where moderation logs will be sent
+🛠️ /setpokechannel - Set this channel as the Pokémon spawn channel for your server
+🛠️ /setpokedexpokemon - Choose which Pokémon to display in your Pokédex!
+🎰 /slots - Play the slot machine
+🛠️ /spawncustompokemon - Give a custom Pokémon to a user
+📈 /stats - Shows your full betting and gambling statistics, including win streaks, jackpots, gifts, and more
+🛡️ /steal - Enhanced steal system with multiple steal types and separate cooldowns
+🛡️ /timeout - Timeout a user for a specified duration
+🛡️ /timeoutlist - List all currently timed out users in the server
+🔄 /trade - Trade items with another user!
+💰 /transactions - View your transaction history
+📋 /unresolvedbets - Shows all bets that are unresolved
+🛡️ /untimeout - Reduce a bot-applied timeout for a user
+📋 /viewbet - Views a concise summary of a specific betting event
+📅 /weekend - Manage automatic weekend events
+💰 /work - Work a job for a chance to earn points and rare bonuses!

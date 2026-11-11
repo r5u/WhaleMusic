@@ -1,0 +1,11 @@
+# Optional. Public Spotify links work without credentials using public embed metadata.
+# Copy this file to spotify.properties next to config.txt if API access is needed.
+# Spotify Web API metadata only. Audio is matched on YouTube or SoundCloud.
+# Option A: Spotify developer application credentials (token refresh is automatic).
+clientId=
+clientSecret=
+# Option B: an existing Spotify Web API access token. It expires and needs replacing.
+accessToken=
+# Recommended for playlist access: run connect_spotify.py for read-only account authorization.
+# The connector saves clientId and refreshToken automatically. A Client Secret is not needed for PKCE.
+refreshToken=

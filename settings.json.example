@@ -1,0 +1,11 @@
+{
+  "botToken": "PASTE_DISCORD_BOT_TOKEN",
+  "applicationId": "YOUR_APPLICATION_ID",
+  "ownerId": "YOUR_USER_ID",
+  "guildId": "YOUR_SERVER_ID",
+  "coOwnerId": "",
+  "musicOnlyChannelId": "",
+  "redirectChannelId": "",
+  "weatherApiKey": "",
+  "discordClientSecret": ""
+}
